@@ -29,6 +29,16 @@ jobs:
             echo "Testing $url"
             curl -4 -sS -o /dev/null -w 'HTTP %{http_code}; IP %{remote_ip}\n' --connect-timeout 7 --max-time 10 "$url" || true
           done
+      - name: Inspect alternative API response shape
+        run: |
+          for url in \
+            'https://jikan.lucashdo.com/v1/users/noctemsol/animelist?page=1&limit=1' \
+            'https://jikan.lucashdo.com/v1/anime/5114' \
+            'https://jikan.lucashdo.com/v1/manga/2'; do
+            echo "SAMPLE $url"
+            curl -4 -sS -L --max-time 15 "$url" | head -c 4200 || true
+            echo
+          done
       - name: Update public MAL metadata
         run: python scripts/generate.py
         env:
