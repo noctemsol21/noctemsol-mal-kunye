@@ -46,7 +46,7 @@ body {
   background-repeat: no-repeat, no-repeat !important;
   background-attachment: fixed, fixed !important;
   overflow-x: hidden;
-  cursor: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cursor-mars-pack-wand.png?v=pack2209") 14 2, auto !important;
+  cursor: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cursor-mars-pack-wand-32.png") 8 1, auto !important;
 }
 
 body a,
@@ -55,7 +55,7 @@ body [role="button"],
 body input[type="button"],
 body input[type="submit"],
 body select {
-  cursor: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cursor-mars-pack-rei.png?v=pack2209") 31 2, pointer !important;
+  cursor: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cursor-mars-pack-rei-32.png") 15 1, pointer !important;
 }
 body textarea,
 body input[type="text"],
