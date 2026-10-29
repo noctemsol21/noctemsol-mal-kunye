@@ -1,9 +1,10 @@
 # Moonlit Elysion · lunahelios
 
 An original Sailor Moon-inspired Classic MyAnimeList list stylesheet for both
-anime and manga. The five Classic list statuses use illustrated Moon, Mercury,
-Mars, Jupiter and Venus cameos. A Silver Millennium nightscape forms the fixed
-background, with a navy, lavender and pearl palette.
+anime and manga. All Anime uses a Luna cameo; the five status categories use
+Moon, Mercury, Mars, Jupiter and Venus. Their entire illustration-and-label
+tab area is clickable. The active character also appears beside the account
+name. A pastel moon-and-cloud sky forms the fixed non-repeating background.
 
 ## Install
 
