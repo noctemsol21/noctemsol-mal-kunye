@@ -171,7 +171,7 @@ def emit_css(cache: dict) -> str:
     lines = [
         "/* Noctemsol MAL Classic künye panels. Generated automatically; do not edit. */",
         "/* This stylesheet depends on MAL's native More button and #more<ID> element. */",
-        "/* Base style; type-specific selectors below prevent anime/manga ID collisions. */",
+        "/* Each list page uses distinct More IDs. Panels can sit outside the title cell. */",
         "#list_surround td:has(a.animetitle) > div[style*=\"float\"] small a[id^=\"xmenu\"] {",
         "  align-items:center;height:18px;margin:0 0 0 11px!important;",
         "  padding:0 0 0 10px!important;border-left:1px solid rgba(226,205,208,.3);",
@@ -189,10 +189,11 @@ def emit_css(cache: dict) -> str:
             if len(fields) != 9 or not re.fullmatch(r"\d+", id_text):
                 continue
             mal_id = int(id_text)
-            # Match the current row only: a body-wide :has() would be costly
-            # when a long list contains hundreds of anime/manga entries.
+            # Scope the button to the title cell. MAL's expanded More panel,
+            # however, is not guaranteed to be nested inside that same cell.
+            # The native #more<ID> identifier is sufficient on each list page.
             row = f'#list_surround td:has(a.animetitle[href*="/{kind}/{mal_id}/"])'
-            scope = f'{row} #more{mal_id}'
+            scope = f'#list_surround #more{mal_id}'
             button_scope = f'{row} > div[style*="float"] small a#xmenu{mal_id}'
             poster = safe_image_url(item.get("poster") or "")
             labels = [pair[0] for pair in fields]
