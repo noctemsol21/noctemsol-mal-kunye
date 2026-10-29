@@ -351,6 +351,16 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   letter-spacing: 2.6px;
   text-shadow: none;
 }
+/* Each small inscription belongs to the guardian shown in that section. */
+#list_surround table.header_cw div::before,
+#list_surround table.header_reading div::before { content: "✧  MOONLIGHT IN MOTION"; }
+#list_surround table.header_completed div::before { content: "✧  MERCURY'S MEMORIES"; }
+#list_surround table.header_onhold div::before { content: "✧  THE QUIET FLAME"; }
+#list_surround table.header_dropped div::before { content: "✧  AFTER THE STORM"; }
+#list_surround table.header_ptw div::before,
+#list_surround table.header_ptr div::before { content: "✧  VENUS'S WISH LIST"; }
+#list_surround table.header_al div::before,
+#list_surround table.header_all div::before { content: "✧  LUNA'S STAR CHART"; }
 /* The five circular portraits keep the same size and placement. */
 #list_surround table.header_cw div::after,
 #list_surround table.header_completed div::after,
@@ -462,7 +472,8 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   text-overflow: ellipsis;
 }
 #list_surround > table:has(a.animetitle) tr:hover > td:first-child {
-  color: var(--elysion-gold) !important;
+  color: transparent !important;
+  font-size: 0 !important;
 }
 #list_surround > table:has(a.animetitle) tr:hover > td:first-child::before {
   content: "☾";
