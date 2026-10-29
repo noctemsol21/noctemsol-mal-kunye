@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffce4"/>
+      <stop offset=".42" stop-color="#ffe4a1"/>
+      <stop offset="1" stop-color="#d0a05b"/>
+    </linearGradient>
+    <linearGradient id="lacquer" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffb0a7"/>
+      <stop offset=".43" stop-color="#e64b66"/>
+      <stop offset="1" stop-color="#98244a"/>
+    </linearGradient>
+    <radialGradient id="ruby" cx=".32" cy=".19" r=".88">
+      <stop offset="0" stop-color="#fffefd"/>
+      <stop offset=".3" stop-color="#ffb9ab"/>
+      <stop offset="1" stop-color="#d93e67"/>
+    </radialGradient>
+  </defs>
+  <!-- Active Mars staff stays anchored at exactly the same click point. -->
+  <path d="M17.5 19.2 40.4 42.1" fill="none" stroke="#291c44" stroke-width="10" stroke-linecap="round"/>
+  <path d="M17.5 19.2 40.4 42.1" fill="none" stroke="url(#gold)" stroke-width="7.5" stroke-linecap="round"/>
+  <path d="M17.5 19.2 40.4 42.1" fill="none" stroke="url(#lacquer)" stroke-width="5.2" stroke-linecap="round"/>
+  <path d="M19.7 21.6 38.2 40.1" fill="none" stroke="#fff4d8" stroke-width="1.15" stroke-linecap="round" opacity=".81"/>
+  <circle cx="40.4" cy="42.1" r="2.9" fill="url(#gold)" stroke="#352343" stroke-width="1.2"/>
+  <path d="M14.1 18.3 17.7 15.7 24.2 22.2 21.6 25.8Z" fill="url(#gold)" stroke="#412746" stroke-width="1.4"/>
+  <circle cx="14.7" cy="18.5" r="1.2" fill="#fff7d7"/>
+  <circle cx="17.5" cy="16.7" r="1.2" fill="#fff7d7"/>
+  <circle cx="21.6" cy="25" r="1.2" fill="#fff7d7"/>
+  <!-- Lighter gold and awakened flame sparks distinguish links from plain text. -->
+  <path d="M14 1.35 17.55 8.65 25.55 9.75 19.78 15.3 21.25 23.15 14 19.35 6.75 23.15 8.22 15.3 2.45 9.75 10.45 8.65Z"
+        fill="url(#gold)" stroke="#312346" stroke-width="1.75" stroke-linejoin="round"/>
+  <path d="M14 5.2 16.45 10.35 22.13 11.1 18.05 15.05 19.15 20.53 14 17.85 8.85 20.53 9.95 15.05 5.87 11.1 11.55 10.35Z"
+        fill="none" stroke="#fffbea" stroke-width="1" stroke-linejoin="round"/>
+  <circle cx="14" cy="13.4" r="5.05" fill="url(#ruby)" stroke="#fff9df" stroke-width="1.05"/>
+  <circle cx="13.3" cy="14.4" r="2.2" fill="none" stroke="#fffef1" stroke-width="1.05"/>
+  <path d="M15 12.7 18.3 9.4 M15.8 9.4h2.5v2.5" fill="none" stroke="#fffef1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 2.5 31.1 5.2 33.9 6.3 31.1 7.35 30 10.15 28.9 7.35 26.1 6.3 28.9 5.2Z"
+        fill="#fff1c2" stroke="#b75f71" stroke-width=".65" stroke-linejoin="round"/>
+  <path d="M5.6 26.3 6.3 28.1 8.1 28.8 6.3 29.5 5.6 31.3 4.9 29.5 3.1 28.8 4.9 28.1Z" fill="#ffe7c4"/>
+</svg>
