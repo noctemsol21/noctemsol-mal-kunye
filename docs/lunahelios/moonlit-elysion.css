@@ -15,15 +15,15 @@
 @import url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/kunye.css");
 
 :root {
-  --elysion-night: #101a39;
-  --elysion-deep: #0b142e;
-  --elysion-surface: #26345c;
-  --elysion-lavender: #b8aedc;
-  --elysion-pearl: #f2edf5;
-  --elysion-gold: #d8be88;
-  --elysion-pink: #d8b7d0;
-  --elysion-muted: #aaa6c5;
-  --elysion-line: rgba(203, 187, 225, .22);
+  --elysion-night: #1e254f;
+  --elysion-deep: #171b3e;
+  --elysion-surface: #48446f;
+  --elysion-lavender: #dbc9eb;
+  --elysion-pearl: #fff4fb;
+  --elysion-gold: #ecd1a2;
+  --elysion-pink: #eab6d6;
+  --elysion-muted: #c1b6d0;
+  --elysion-line: rgba(237, 207, 229, .24);
   --elysion-serif: "Cormorant Garamond", Georgia, serif;
   --elysion-sans: "Nunito Sans", Arial, sans-serif;
 }
@@ -82,7 +82,7 @@ body * { text-shadow: none; }
   padding: 22px 34px 24px 108px !important;
   border: 0 !important;
   border-bottom: 1px solid rgba(216, 190, 136, .48) !important;
-  background: rgba(9, 17, 40, .27) !important;
+  background: rgba(29, 30, 65, .37) !important;
   box-shadow: none !important;
   text-align: left !important;
 }
@@ -302,11 +302,11 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   height: 216px !important;
   min-height: 216px;
   margin: 37px 0 18px !important;
-  border: 1px solid rgba(205, 188, 225, .31) !important;
+  border: 1px solid rgba(236, 204, 229, .34) !important;
   border-radius: 0 !important;
   background:
-    radial-gradient(circle at 82% 50%, rgba(173, 151, 209, .25), transparent 39%),
-    linear-gradient(100deg, rgba(14, 23, 53, .97), rgba(29, 36, 76, .93) 58%, rgba(42, 38, 80, .92)) !important;
+    radial-gradient(circle at 82% 50%, rgba(224, 172, 214, .18), transparent 40%),
+    linear-gradient(105deg, rgba(27, 30, 67, .96), rgba(54, 48, 90, .94) 57%, rgba(79, 61, 108, .9)) !important;
   box-shadow: none !important;
   transform: none !important;
   overflow: hidden !important;
@@ -366,8 +366,8 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   max-width: 100% !important;
   table-layout: fixed !important;
   border-collapse: collapse !important;
-  background: rgba(13, 23, 55, .86) !important;
-  border-bottom: 1px solid rgba(226, 204, 228, .27) !important;
+  background: rgba(37, 36, 76, .93) !important;
+  border-bottom: 1px solid rgba(236, 203, 227, .28) !important;
 }
 #list_surround td.table_header {
   box-sizing: border-box !important;
@@ -395,18 +395,18 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   table-layout: fixed !important;
   border-collapse: collapse !important;
   border-spacing: 0 !important;
-  background: rgba(18, 29, 61, .84) !important;
+  background: rgba(39, 42, 87, .92) !important;
 }
 #list_surround > table:has(a.animetitle):nth-of-type(even) {
-  background: rgba(35, 43, 77, .86) !important;
+  background: rgba(56, 50, 98, .9) !important;
 }
 #list_surround > table:has(a.animetitle):hover {
   z-index: 15;
-  background: rgba(57, 62, 107, .91) !important;
+  background: rgba(78, 64, 116, .94) !important;
 }
 #list_surround > table:has(a.animetitle) tr {
   height: 50px;
-  border-bottom: 1px solid rgba(207, 193, 224, .13) !important;
+  border-bottom: 1px solid rgba(239, 210, 231, .17) !important;
 }
 #list_surround > table:has(a.animetitle) tr > td {
   box-sizing: border-box !important;
@@ -456,7 +456,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   font: 500 18px/1 var(--elysion-serif);
   color: var(--elysion-gold);
   text-align: center;
-  background: #333e6d;
+  background: #514a7d;
   pointer-events: none;
 }
 
@@ -575,7 +575,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   transform: translateY(-50%);
   border: 1px solid rgba(220, 196, 229, .7);
   border-radius: 3px;
-  background-color: #1b254b;
+  background-color: #302d61;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -599,7 +599,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 #list_surround [id^="more"] {
   box-sizing: border-box;
   color: var(--elysion-pearl) !important;
-  background-color: rgba(16, 25, 56, .96);
+  background-color: rgba(35, 33, 76, .97);
 }
 #list_surround [id^="more"] a {
   color: var(--elysion-lavender) !important;
@@ -610,13 +610,13 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   max-width: 100% !important;
   border: 1px solid rgba(206, 190, 225, .38) !important;
   color: #f6edf8 !important;
-  background: #121c3c !important;
+  background: #29274f !important;
   font: 400 12px/1.5 var(--elysion-sans) !important;
 }
 #list_surround td:has(a.animetitle) input[type="button"],
 #list_surround td:has(a.animetitle) input[type="submit"] {
   border: 1px solid #8b7db4 !important;
-  background: #2e3869 !important;
+  background: #514772 !important;
   color: #f8f1fa !important;
   font: 600 11px/1.4 var(--elysion-sans) !important;
 }
@@ -640,7 +640,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   padding: 17px 20px !important;
   border-top: 1px solid rgba(216, 190, 136, .43) !important;
   border-bottom: 1px solid rgba(203, 187, 225, .16) !important;
-  background: rgba(10, 19, 44, .76) !important;
+  background: rgba(40, 34, 76, .85) !important;
   color: #cec4db !important;
   font: 500 11px/1.7 var(--elysion-sans) !important;
   text-align: center !important;
@@ -679,10 +679,31 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 #copyright > * { text-align: center !important; }
 #recaptcha-terms, .recaptcha-terms {
   display: block !important;
-  color: #a9a4bf !important;
-  font: 400 9px/1.4 var(--elysion-sans) !important;
+  box-sizing: border-box !important;
+  position: relative !important;
+  inset: auto !important;
+  float: none !important;
+  clear: both !important;
+  width: 100% !important;
+  max-width: 1000px !important;
+  height: auto !important;
+  margin: 4px auto 20px !important;
+  padding: 0 12px !important;
+  border: 0 !important;
+  background: transparent !important;
+  color: #d5c9df !important;
+  font: 400 7px/1.35 var(--elysion-sans) !important;
+  text-align: center !important;
   text-transform: none !important;
+  opacity: .43;
 }
+#recaptcha-terms a, .recaptcha-terms a {
+  color: inherit !important;
+  font: inherit !important;
+  text-decoration: none !important;
+}
+#recaptcha-terms:hover, #recaptcha-terms:focus-within,
+.recaptcha-terms:hover, .recaptcha-terms:focus-within { opacity: .76; }
 ::-webkit-scrollbar { width: 9px; height: 9px; }
 ::-webkit-scrollbar-track { background: #111a36; }
 ::-webkit-scrollbar-thumb { background: #62618d; border: 2px solid #111a36; border-radius: 5px; }
