@@ -1,7 +1,7 @@
 # Noctemsol MAL Classic otomatik künye
 
 Bu depo `noctemsol` hesabının **herkese açık** anime/manga listelerini günlük tarar.
-Jikan üzerinden eserlerin alternatif isimlerini, türlerini, stüdyo/yazar,
+Jikan Edge üzerinden eserlerin alternatif isimlerini, türlerini, stüdyo/yazar,
 format, bölüm sayısı ve genel puan bilgilerini alır. Sonra MAL Classic
 listesinde native **More** düğmesi ile açılabilen CSS künye panellerini üretir.
 
@@ -28,7 +28,7 @@ listesinde native **More** düğmesi ile açılabilen CSS künye panellerini ür
 - Künye CSS ile `::before` ve `::after` metinleri olarak oluşturulur. Bu metinler
   bazı tarayıcılarda güvenilir biçimde seçilip **kopyalanamaz**. Kopyalanabilir
   gerçek metin, MAL Classic sayfasına JavaScript enjekte edilmeden mümkün değildir.
-- Jikan geçici olarak veri döndürmezse kayıt önbellekten korunur; yeni eser
+- Veri kaynağı geçici olarak yanıt vermezse kayıt önbellekten korunur; yeni eser
   ertesi çalışmada tekrar denenir. **Public listede görünmeyen** eserler eklenmez.
 - Genel puan günlük işin çalışmasına göre yenilenir; gerçek zamanlı değildir.
 - GitHub, uzun süre etkin olmayan public depoların zamanlanmış işlerini
