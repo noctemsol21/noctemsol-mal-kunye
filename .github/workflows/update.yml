@@ -21,7 +21,11 @@ jobs:
           python-version: '3.12'
       - name: Check connectivity to public APIs
         run: |
-          for url in https://api.github.com https://api.jikan.moe/v4 https://myanimelist.net; do
+          for url in \
+            https://api.github.com \
+            https://api.jikan.moe/v4 \
+            https://jikan.lucashdo.com/v1/users/noctemsol/animelist?page=1 \
+            'https://myanimelist.net/animelist/noctemsol/load.json?status=7&offset=0'; do
             echo "Testing $url"
             curl -4 -sS -o /dev/null -w 'HTTP %{http_code}; IP %{remote_ip}\n' --connect-timeout 7 --max-time 10 "$url" || true
           done
