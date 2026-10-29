@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 310" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Moonlit Elysion moon and Pegasus illustration">
+  <defs>
+    <linearGradient id="night" x1="0" x2="1" y1=".7" y2=".3">
+      <stop stop-color="#26335e"/>
+      <stop offset=".55" stop-color="#35406c"/>
+      <stop offset="1" stop-color="#1a244c"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#d8c5f1" stop-opacity=".29"/>
+      <stop offset=".68" stop-color="#b29bcf" stop-opacity=".095"/>
+      <stop offset="1" stop-color="#b29bcf" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pearl" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#fff8f8"/>
+      <stop offset="1" stop-color="#b9add7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="310" fill="url(#night)"/>
+  <circle cx="1115" cy="125" r="230" fill="url(#halo)"/>
+  <circle cx="1115" cy="125" r="137" fill="none" stroke="#ded0f0" stroke-opacity=".38" stroke-width="1.5"/>
+  <circle cx="1115" cy="125" r="118" fill="none" stroke="#d7c49f" stroke-opacity=".25"/>
+  <path d="M1130 6a123 123 0 1 0 3 239A105 105 0 1 1 1130 6Z" fill="#e9dcf2" fill-opacity=".15"/>
+  <g fill="#fcf5ff" opacity=".85">
+    <circle cx="42" cy="42" r="1.8"/><circle cx="360" cy="76" r="1.3"/><circle cx="580" cy="38" r="1.8"/>
+    <circle cx="765" cy="124" r="1.6"/><circle cx="1280" cy="39" r="2"/><circle cx="1355" cy="244" r="1.4"/>
+    <circle cx="530" cy="244" r="1.4"/><circle cx="245" cy="215" r="1.2"/>
+  </g>
+  <g fill="none" stroke="#d9bf89" stroke-opacity=".8" stroke-width="1.3">
+    <path d="M687 50v16m-8-8h16M1312 164v18m-9-9h18M883 246v10m-5-5h10"/>
+  </g>
+  <g transform="translate(865 35) scale(1.2)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- A freehand heraldic Pegasus, drawn for this stylesheet. -->
+    <path d="M75 224c23-30 30-64 48-91 9-13 20-21 34-28l9-28 13 16c22-13 48-13 65-3 13 8 16 20 4 29l-29 17-6 23c19 18 30 38 31 65" stroke="url(#pearl)" stroke-width="3"/>
+    <path d="m174 88-9-16 4-27 14 31m61 22 24-3-17 13m-27 28c10 4 16 4 22 0" stroke="#e5d3ef" stroke-width="2"/>
+    <path d="M155 107C126 73 119 45 129 17c13 30 31 47 50 61M147 121C98 101 76 76 73 44c35 34 63 44 88 49M134 141C84 140 47 120 25 90c43 13 81 23 123 24" stroke="#cdb9e8" stroke-width="3"/>
+    <path d="M102 173c-25 3-45-1-64-14 24 4 44 4 67-2" stroke="#cdb9e8" stroke-opacity=".8" stroke-width="1.8"/>
+    <circle cx="222" cy="105" r="2.8" fill="#e7cb91" stroke="none"/>
+    <path d="m181 93 7-9m-22 19-14-2" stroke="#e7cb91" stroke-width="1.6"/>
+  </g>
+  <path d="M0 309C160 275 370 304 550 290S940 271 1400 295" fill="none" stroke="#baa6dc" stroke-opacity=".16" stroke-width="3"/>
+</svg>
