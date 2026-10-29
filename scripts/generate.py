@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a Classic MAL list's per-entry künye CSS from public Jikan data.
+"""Build a Classic MAL list's per-entry künye CSS from public MAL data.
 
 No credentials are used. The generated CSS contains only public series data.
 """
@@ -23,7 +23,7 @@ DOCS = ROOT / "docs"
 CACHE_FILE = DOCS / "cache.json"
 CSS_FILE = DOCS / "kunye.css"
 USERNAME = os.environ.get("MAL_USERNAME", "noctemsol").strip()
-BASE = "https://api.jikan.moe/v4"
+BASE = "https://jikan.lucashdo.com/v1"
 REQUEST_GAP = 1.1  # Respect Jikan's per-minute rate limit.
 STALE_DAYS = 28
 MAX_DETAILS = int(os.environ.get("MAX_DETAILS", "1200"))
@@ -38,9 +38,10 @@ def api(path: str) -> dict:
         if wait > 0:
             time.sleep(wait)
         last_request = time.monotonic()
-        request = urllib.request.Request(
-            url, headers={"User-Agent": "NoctemsolMALKunye/1.0 (public metadata; GitHub Actions)", "Accept": "application/json"}
-        )
+        request = urllib.request.Request(url, headers={
+            "User-Agent": "NoctemsolMALKunye/1.0 (public metadata; GitHub Actions)",
+            "Accept": "application/json",
+        })
         try:
             with urllib.request.urlopen(request, timeout=35) as response:
                 return json.load(response)
@@ -48,7 +49,7 @@ def api(path: str) -> dict:
             if error.code in (429, 500, 502, 503, 504) and attempt < 5:
                 time.sleep(min(60, 3 * (2 ** attempt)))
                 continue
-            raise RuntimeError(f"Jikan HTTP {error.code}: {url}") from error
+            raise RuntimeError(f"Metadata API HTTP {error.code}: {url}") from error
         except (TimeoutError, urllib.error.URLError) as error:
             reason = getattr(error, "reason", error)
             if isinstance(reason, OSError) and reason.errno in (101, 113):
@@ -56,26 +57,26 @@ def api(path: str) -> dict:
             if attempt < 5:
                 time.sleep(min(60, 3 * (2 ** attempt)))
                 continue
-            raise RuntimeError(f"Jikan connection error: {url}") from error
-    raise RuntimeError(f"Jikan failed: {url}")
+            raise RuntimeError(f"Metadata API connection error: {url}") from error
+    raise RuntimeError(f"Metadata API failed: {url}")
 
 
 def user_list(kind: str) -> dict[int, dict]:
     records: dict[int, dict] = {}
     page = 1
     while True:
-        path = f"/users/{urllib.parse.quote(USERNAME)}/{kind}list?page={page}"
+        path = f"/users/{urllib.parse.quote(USERNAME)}/{kind}list?page={page}&limit=100"
         payload = api(path)
         entries = payload.get("data", [])
         if not isinstance(entries, list):
             raise RuntimeError(f"Unexpected {kind} list format")
         for entry in entries:
-            media = entry.get(kind) or entry.get("entry") or {}
-            mal_id = media.get("mal_id")
+            media = entry.get(kind) or entry.get("entry") or entry
+            mal_id = media.get("malId") or media.get("mal_id")
             if isinstance(mal_id, int):
                 records[mal_id] = media
-        pagination = payload.get("pagination") or {}
-        if not pagination.get("has_next_page"):
+        pagination = (payload.get("meta") or {}).get("pagination") or payload.get("pagination") or {}
+        if not (pagination.get("hasNextPage") or pagination.get("has_next_page")):
             break
         page += 1
         if page > 300:
@@ -107,15 +108,15 @@ def name_list(items: list | None, limit=7) -> str:
 
 def synopsis_record(kind: str, entry: dict) -> dict:
     title = entry.get("title") or "—"
-    english = entry.get("title_english") or entry.get("title") or "—"
-    japanese = value_text(entry.get("title_japanese"))
-    synonyms = ", ".join((entry.get("title_synonyms") or [])[:4]) or "—"
+    english = entry.get("titleEnglish") or entry.get("title_english") or entry.get("title") or "—"
+    japanese = value_text(entry.get("titleJapanese") or entry.get("title_japanese"))
+    synonyms = ", ".join((entry.get("titleSynonyms") or entry.get("title_synonyms") or [])[:4]) or "—"
     genres = name_list(entry.get("genres"), 6)
-    themes = name_list(entry.get("themes"), 4)
+    themes = name_list((entry.get("themes") or []) + (entry.get("demographics") or []), 4)
     score = entry.get("score")
     score_text = f"{score:.2f} / 10" if isinstance(score, (int, float)) else "Not rated"
     images = entry.get("images") or {}
-    poster = (images.get("jpg") or {}).get("large_image_url") or (images.get("jpg") or {}).get("image_url") or ""
+    poster = (images.get("jpg") or {}).get("large_image_url") or (images.get("jpg") or {}).get("image_url") or images.get("large") or entry.get("imageUrl") or ""
     year = entry.get("year") or (entry.get("published") or {}).get("string") or "—"
     if kind == "anime":
         episodes = entry.get("episodes")
@@ -131,7 +132,7 @@ def synopsis_record(kind: str, entry: dict) -> dict:
         chapters, volumes = entry.get("chapters"), entry.get("volumes")
         author_names = []
         for author in entry.get("authors") or []:
-            person = author.get("person") or {}
+            person = author.get("person") or author
             if person.get("name"):
                 author_names.append(person["name"])
         format_bits = [value_text(entry.get("type"))]
@@ -239,7 +240,7 @@ def main() -> int:
                 pass
             if stale and budget > 0:
                 try:
-                    detail = api(f"/{kind}/{mal_id}/full").get("data") or {}
+                    detail = api(f"/{kind}/{mal_id}").get("data") or {}
                     new_records[key] = synopsis_record(kind, detail)
                     budget -= 1
                 except Exception as exc:
