@@ -39,8 +39,8 @@ body {
   text-shadow: none !important;
   background-color: var(--elysion-night) !important;
   background-image:
-    linear-gradient(180deg, rgba(11, 20, 46, .08), rgba(8, 13, 34, .64)),
-    url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/elysion-sky.svg") !important;
+    linear-gradient(180deg, rgba(11, 20, 46, .05), rgba(8, 13, 34, .48)),
+    url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/silver-millennium-sky.webp") !important;
   background-position: center center, center center !important;
   background-size: cover, cover !important;
   background-repeat: no-repeat, no-repeat !important;
@@ -194,7 +194,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   align-items: center;
   justify-content: center;
   width: auto !important;
-  height: 108px;
+  height: 116px;
   padding: 9px 5px 11px !important;
   margin: 0 !important;
   border: 0 !important;
@@ -213,9 +213,9 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 #list_surround .status_selected::before {
   content: "";
   display: block;
-  flex: 0 0 65px;
-  width: 65px;
-  height: 65px;
+  flex: 0 0 74px;
+  width: 74px;
+  height: 74px;
   margin: 0 0 5px;
   background-position: center;
   background-size: contain;
@@ -235,9 +235,9 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 #list_surround .status_not_selected::before {
   content: "" !important;
   display: block !important;
-  flex: 0 0 65px;
-  width: 65px;
-  height: 65px;
+  flex: 0 0 74px;
+  width: 74px;
+  height: 74px;
   margin: 0 0 5px;
   background-position: center;
   background-size: contain;
@@ -249,12 +249,18 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 #list_surround .status_not_selected::after { content: none !important; }
 #list_surround .status_not_selected:hover::before,
 #list_surround .status_not_selected:focus-within::before { opacity: 1; }
-#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(1)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-moon.svg"); }
-#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(2)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-mercury.svg"); }
-#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(3)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-mars.svg"); }
-#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(4)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-jupiter.svg"); }
-#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(5)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-venus.svg"); }
-#list_surround table:has(.status_selected, .status_not_selected) td:last-child::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/moon-crest.svg"); }
+#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(1)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-moon.webp"); }
+#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(2)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-mercury.webp"); }
+#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(3)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-mars.webp"); }
+#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(4)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-jupiter.webp"); }
+#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(5)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-venus.webp"); }
+#list_surround table:has(.status_selected, .status_not_selected) td:last-child::before {
+  content: "☾" !important;
+  background-image: none !important;
+  color: var(--elysion-gold);
+  font: 500 58px/70px var(--elysion-serif);
+  text-align: center;
+}
 #list_surround .status_selected a,
 #list_surround .status_not_selected a {
   color: inherit !important;
@@ -269,32 +275,31 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   background: rgba(185, 171, 216, .07) !important;
 }
 
-/* 03 — A single quiet Pegasus panorama for every category. */
+/* 03 — Character cameos replace the old Pegasus line illustration. */
 #list_surround table[class^="header_"] {
   box-sizing: border-box;
   position: relative;
   isolation: isolate;
   display: table !important;
   width: 100% !important;
-  height: 165px !important;
-  min-height: 165px;
+  height: 216px !important;
+  min-height: 216px;
   margin: 37px 0 18px !important;
   border: 1px solid rgba(205, 188, 225, .31) !important;
   border-radius: 0 !important;
   background:
-    linear-gradient(90deg, rgba(20, 30, 64, .93) 0%, rgba(27, 38, 76, .78) 45%, rgba(19, 27, 60, .05) 100%),
-    url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/elysion-banner.svg")
-      center center / cover no-repeat !important;
+    radial-gradient(circle at 82% 50%, rgba(173, 151, 209, .25), transparent 39%),
+    linear-gradient(100deg, rgba(14, 23, 53, .97), rgba(29, 36, 76, .93) 58%, rgba(42, 38, 80, .92)) !important;
   box-shadow: none !important;
   transform: none !important;
   overflow: hidden !important;
 }
 #list_surround table[class^="header_"] div {
   box-sizing: border-box;
-  padding: 22px 35px !important;
+  padding: 55px 42px 35px !important;
   margin: 0 !important;
   color: #f8f1f6 !important;
-  font: 500 clamp(29px, 4vw, 44px)/1.25 var(--elysion-serif) !important;
+  font: 500 clamp(32px, 4vw, 48px)/1.25 var(--elysion-serif) !important;
   letter-spacing: .6px !important;
   text-align: left !important;
   text-transform: none !important;
@@ -310,7 +315,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   letter-spacing: 2.6px;
   text-shadow: none;
 }
-/* The five Senshi share one restrained vector crest style. */
+/* The five circular portraits keep the same size and placement. */
 #list_surround table.header_cw div::after,
 #list_surround table.header_completed div::after,
 #list_surround table.header_onhold div::after,
@@ -318,22 +323,22 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 #list_surround table.header_ptw div::after {
   content: "";
   position: absolute;
-  right: 34px;
+  right: 48px;
   top: 50%;
-  width: 115px;
-  height: 115px;
+  width: 194px;
+  height: 194px;
   transform: translateY(-50%);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-  opacity: .9;
+  opacity: 1;
   pointer-events: none;
 }
-#list_surround table.header_cw div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-moon.svg"); }
-#list_surround table.header_completed div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-mercury.svg"); }
-#list_surround table.header_onhold div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-mars.svg"); }
-#list_surround table.header_dropped div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-jupiter.svg"); }
-#list_surround table.header_ptw div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-venus.svg"); }
+#list_surround table.header_cw div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-moon.webp"); }
+#list_surround table.header_completed div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-mercury.webp"); }
+#list_surround table.header_onhold div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-mars.webp"); }
+#list_surround table.header_dropped div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-jupiter.webp"); }
+#list_surround table.header_ptw div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-venus.webp"); }
 
 /* 04 — Identical column widths for anime and manga, including TV Special. */
 #list_surround > table:has(a.animetitle) {
@@ -655,8 +660,9 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   #list_surround td:has(a.animetitle) > div[style*="float"] { right: 7px !important; }
   #list_surround td:has(a.animetitle) > div[style*="float"] small a { font-size: 9px !important; }
   #list_surround td:has(a.animetitle) > div[style*="float"] small a[id^="xmenu"] { font-size: 0 !important; margin-left: 6px !important; padding-left: 6px !important; }
-  #list_surround table[class^="header_"] { height: 130px !important; min-height: 130px; }
-  #list_surround table[class^="header_"] div { font-size: 30px !important; padding: 18px !important; }
+  #list_surround table[class^="header_"] { height: 176px !important; min-height: 176px; }
+  #list_surround table[class^="header_"] div { font-size: 30px !important; padding: 32px 24px !important; }
+  #list_surround table[class^="header_"] div::after { width: 144px; height: 144px; right: 22px; }
 }
 @media (max-width: 680px) {
   #mal_control_strip { min-height: 232px !important; }
@@ -666,7 +672,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   #list_surround .status_not_selected { height: 75px; font-size: 7px !important; padding: 5px 2px !important; }
   #list_surround .status_selected::before,
   #list_surround .status_not_selected::before { width: 38px; height: 38px; flex-basis: 38px; margin-bottom: 3px; }
-  #list_surround table[class^="header_"] div::after { width: 66px; height: 66px; right: 14px; }
+  #list_surround table[class^="header_"] div::after { width: 98px; height: 98px; right: 12px; }
   #list_surround a.animetitle::before { display: none !important; }
   #list_surround > table:has(a.animetitle) tr > td:last-child:not([colspan]) { width: 49px !important; }
   #list_surround > table:has(a.animetitle) tr > td:nth-last-child(2):not([colspan]) { width: 75px !important; }
@@ -677,7 +683,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   #list_surround td:has(a.animetitle)::after { right: 7px; width: 75px; }
   #list_surround td:has(a.animetitle) { padding-right: 92px !important; }
   #list_surround table[class^="header_"] { background-position: 60% center !important; }
-  #list_surround table[class^="header_"] div { font-size: 24px !important; }
+  #list_surround table[class^="header_"] div { font-size: 24px !important; padding: 26px 15px !important; }
 }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
