@@ -50,6 +50,9 @@ def api(path: str) -> dict:
                 continue
             raise RuntimeError(f"Jikan HTTP {error.code}: {url}") from error
         except (TimeoutError, urllib.error.URLError) as error:
+            reason = getattr(error, "reason", error)
+            if isinstance(reason, OSError) and reason.errno in (101, 113):
+                raise RuntimeError(f"Runner has no network route to {url}: {reason}") from error
             if attempt < 5:
                 time.sleep(min(60, 3 * (2 ** attempt)))
                 continue
@@ -185,10 +188,11 @@ def emit_css(cache: dict) -> str:
             if len(fields) != 9 or not re.fullmatch(r"\d+", id_text):
                 continue
             mal_id = int(id_text)
-            scope = f'body:has(#list_surround a.animetitle[href*="/{kind}/"]) #list_surround #more{mal_id}'
-            button_scope = (f'body:has(#list_surround a.animetitle[href*="/{kind}/"]) '
-                            f'#list_surround td:has(a.animetitle[href*="/{kind}/{mal_id}/"]) '
-                            f'> div[style*="float"] small a#xmenu{mal_id}')
+            # Match the current row only: a body-wide :has() would be costly
+            # when a long list contains hundreds of anime/manga entries.
+            row = f'#list_surround td:has(a.animetitle[href*="/{kind}/{mal_id}/"])'
+            scope = f'{row} #more{mal_id}'
+            button_scope = f'{row} > div[style*="float"] small a#xmenu{mal_id}'
             poster = safe_image_url(item.get("poster") or "")
             labels = [pair[0] for pair in fields]
             values = [pair[1] for pair in fields]
