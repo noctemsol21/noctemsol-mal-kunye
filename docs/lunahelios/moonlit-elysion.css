@@ -388,9 +388,9 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   float: none !important;
   position: absolute !important;
   right: 14px !important;
-  top: 50% !important;
+  top: 13px !important;
   bottom: auto !important;
-  transform: translateY(-50%) !important;
+  transform: none !important;
   margin: 0 !important;
   padding: 0 !important;
   line-height: 20px !important;
