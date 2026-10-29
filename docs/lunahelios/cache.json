@@ -1,9 +1,5513 @@
 {
-  "anime": {},
+  "anime": {
+    "1": {
+      "fetched": "2026-10-29T18:48:59.359577+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Cowboy Bebop"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Cowboy Bebop"
+        ],
+        [
+          "JAPANESE",
+          "カウボーイビバップ"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Award Winning, Sci-Fi"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, Space"
+        ],
+        [
+          "STUDIO",
+          "Sunrise"
+        ],
+        [
+          "FORMAT",
+          "TV · 26 episodes · 1998 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "8.75 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg"
+    },
+    "10408": {
+      "fetched": "2026-10-29T18:49:24.743560+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Hotarubi no Mori e"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Into the Forest of Fireflies' Light"
+        ],
+        [
+          "JAPANESE",
+          "蛍火の杜へ"
+        ],
+        [
+          "OTHER NAMES",
+          "The Light of a Firefly Forest"
+        ],
+        [
+          "GENRES",
+          "Award Winning, Drama, Romance, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Shoujo"
+        ],
+        [
+          "STUDIO",
+          "Brain's Base"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.26 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1599/112267l.jpg"
+    },
+    "10620": {
+      "fetched": "2026-10-29T18:50:14.823254+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Mirai Nikki (TV)"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "The Future Diary"
+        ],
+        [
+          "JAPANESE",
+          "未来日記"
+        ],
+        [
+          "OTHER NAMES",
+          "Mirai Nikki, Mirai Nikki (2011)"
+        ],
+        [
+          "GENRES",
+          "Action, Supernatural, Suspense"
+        ],
+        [
+          "THEMES",
+          "Gore, High Stakes Game, Psychological, Survival"
+        ],
+        [
+          "STUDIO",
+          "asread."
+        ],
+        [
+          "FORMAT",
+          "TV · 26 episodes · 2011 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "7.37 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg"
+    },
+    "11061": {
+      "fetched": "2026-10-29T18:49:34.497555+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Hunter x Hunter (2011)"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Hunter x Hunter"
+        ],
+        [
+          "JAPANESE",
+          "HUNTER×HUNTER（ハンター×ハンター）"
+        ],
+        [
+          "OTHER NAMES",
+          "HxH (2011)"
+        ],
+        [
+          "GENRES",
+          "Action, Adventure, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Shounen"
+        ],
+        [
+          "STUDIO",
+          "Madhouse"
+        ],
+        [
+          "FORMAT",
+          "TV · 148 episodes · 2011 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "9.03 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+    },
+    "11111": {
+      "fetched": "2026-10-29T18:48:51.829606+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Another"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Another"
+        ],
+        [
+          "JAPANESE",
+          "アナザー"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Horror, Mystery"
+        ],
+        [
+          "THEMES",
+          "Gore, School"
+        ],
+        [
+          "STUDIO",
+          "P.A. Works"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2012 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "7.46 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/4/75509l.jpg"
+    },
+    "11597": {
+      "fetched": "2026-10-29T18:50:30.319828+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Nisemonogatari"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Nisemonogatari"
+        ],
+        [
+          "JAPANESE",
+          "偽物語"
+        ],
+        [
+          "OTHER NAMES",
+          "Impostory"
+        ],
+        [
+          "GENRES",
+          "Comedy, Mystery, Supernatural, Ecchi"
+        ],
+        [
+          "THEMES",
+          "—"
+        ],
+        [
+          "STUDIO",
+          "Shaft"
+        ],
+        [
+          "FORMAT",
+          "TV · 11 episodes · 2012 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.12 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1044/103654l.jpg"
+    },
+    "11771": {
+      "fetched": "2026-10-29T18:50:04.538574+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kuroko no Basket"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Kuroko's Basketball"
+        ],
+        [
+          "JAPANESE",
+          "黒子のバスケ"
+        ],
+        [
+          "OTHER NAMES",
+          "Kuroko no Basuke, KuroBas, The Basketball Which Kuroko Plays"
+        ],
+        [
+          "GENRES",
+          "Sports"
+        ],
+        [
+          "THEMES",
+          "School, Team Sports, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Production I.G"
+        ],
+        [
+          "FORMAT",
+          "TV · 25 episodes · 2012 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "8.04 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/11/50453l.jpg"
+    },
+    "121": {
+      "fetched": "2026-10-29T18:49:12.532673+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Fullmetal Alchemist"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Fullmetal Alchemist"
+        ],
+        [
+          "JAPANESE",
+          "鋼の錬金術師"
+        ],
+        [
+          "OTHER NAMES",
+          "Hagane no Renkinjutsushi, FMA, Full Metal Alchemist"
+        ],
+        [
+          "GENRES",
+          "Action, Adventure, Award Winning, Drama, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Military, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Bones"
+        ],
+        [
+          "FORMAT",
+          "TV · 51 episodes · 2003 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.12 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/10/75815l.jpg"
+    },
+    "12189": {
+      "fetched": "2026-10-29T18:49:35.661919+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Hyouka"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Hyouka"
+        ],
+        [
+          "JAPANESE",
+          "氷菓"
+        ],
+        [
+          "OTHER NAMES",
+          "Hyou-ka, Hyouka: You can't escape, Hyou-ka: You can't escape, Hyoka"
+        ],
+        [
+          "GENRES",
+          "Mystery, Slice of Life"
+        ],
+        [
+          "THEMES",
+          "School"
+        ],
+        [
+          "STUDIO",
+          "Kyoto Animation"
+        ],
+        [
+          "FORMAT",
+          "TV · 22 episodes · 2012 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "8.04 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/13/50521l.jpg"
+    },
+    "14227": {
+      "fetched": "2026-10-29T18:51:09.415622+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Tonari no Kaibutsu-kun"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "My Little Monster"
+        ],
+        [
+          "JAPANESE",
+          "となりの怪物くん"
+        ],
+        [
+          "OTHER NAMES",
+          "Tonari no Kaibutsukun, The Monster Next Door, My Neighbor Monster-kun"
+        ],
+        [
+          "GENRES",
+          "Comedy, Romance"
+        ],
+        [
+          "THEMES",
+          "School, Shoujo"
+        ],
+        [
+          "STUDIO",
+          "Brain's Base"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2012 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "7.45 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/4/39779l.jpg"
+    },
+    "14719": {
+      "fetched": "2026-10-29T18:49:49.979815+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "JoJo no Kimyou na Bouken (TV)"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "JoJo's Bizarre Adventure (2012)"
+        ],
+        [
+          "JAPANESE",
+          "ジョジョの奇妙な冒険"
+        ],
+        [
+          "OTHER NAMES",
+          "JoJo no Kimyou na Bouken (2012), Battle Tendency, Phantom Blood, Sentou Chouryuu"
+        ],
+        [
+          "GENRES",
+          "Action, Adventure, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Historical, Vampire, Shounen"
+        ],
+        [
+          "STUDIO",
+          "David Production"
+        ],
+        [
+          "FORMAT",
+          "TV · 26 episodes · 2012 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "7.87 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/3/40409l.jpg"
+    },
+    "1535": {
+      "fetched": "2026-10-29T18:49:04.926185+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Death Note"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Death Note"
+        ],
+        [
+          "JAPANESE",
+          "デスノート"
+        ],
+        [
+          "OTHER NAMES",
+          "DN"
+        ],
+        [
+          "GENRES",
+          "Supernatural, Suspense"
+        ],
+        [
+          "THEMES",
+          "Psychological, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Madhouse"
+        ],
+        [
+          "FORMAT",
+          "TV · 37 episodes · 2006 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.62 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+    },
+    "15689": {
+      "fetched": "2026-10-29T18:50:29.950476+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Nekomonogatari: Kuro"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Nekomonogatari Black"
+        ],
+        [
+          "JAPANESE",
+          "猫物語（黒）"
+        ],
+        [
+          "OTHER NAMES",
+          "Nekomonogatari Black: Tsubasa Family"
+        ],
+        [
+          "GENRES",
+          "Mystery, Romance, Supernatural, Ecchi"
+        ],
+        [
+          "THEMES",
+          "—"
+        ],
+        [
+          "STUDIO",
+          "Shaft"
+        ],
+        [
+          "FORMAT",
+          "TV Special · 4 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.91 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg"
+    },
+    "164": {
+      "fetched": "2026-10-29T18:50:16.873082+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Mononoke Hime"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Princess Mononoke"
+        ],
+        [
+          "JAPANESE",
+          "もののけ姫"
+        ],
+        [
+          "OTHER NAMES",
+          "Mononoke Hime"
+        ],
+        [
+          "GENRES",
+          "Action, Adventure, Award Winning, Fantasy"
+        ],
+        [
+          "THEMES",
+          "—"
+        ],
+        [
+          "STUDIO",
+          "Studio Ghibli"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.67 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg"
+    },
+    "16592": {
+      "fetched": "2026-10-29T18:49:04.016762+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Danganronpa: The Animation"
+        ],
+        [
+          "JAPANESE",
+          "ダンガンロンパ 希望の学園と絶望の高校生 THE ANIMATION"
+        ],
+        [
+          "OTHER NAMES",
+          "Dangan Ronpa: The Animation"
+        ],
+        [
+          "GENRES",
+          "Horror, Mystery, Suspense"
+        ],
+        [
+          "THEMES",
+          "High Stakes Game, Psychological, School, Survival"
+        ],
+        [
+          "STUDIO",
+          "Lerche"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2013 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "7.19 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/4/51463l.jpg"
+    },
+    "16894": {
+      "fetched": "2026-10-29T18:50:06.598959+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kuroko no Basket 2nd Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Kuroko's Basketball 2"
+        ],
+        [
+          "JAPANESE",
+          "黒子のバスケ"
+        ],
+        [
+          "OTHER NAMES",
+          "Kuroko no Basuke 2nd Season, The Basketball Which Kuroko Plays"
+        ],
+        [
+          "GENRES",
+          "Sports"
+        ],
+        [
+          "THEMES",
+          "School, Team Sports, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Production I.G"
+        ],
+        [
+          "FORMAT",
+          "TV · 25 episodes · 2013 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.20 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/9/56155l.jpg"
+    },
+    "17074": {
+      "fetched": "2026-10-29T18:50:15.929131+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Monogatari Series: Second Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Monogatari Series: Second Season"
+        ],
+        [
+          "JAPANESE",
+          "〈物語〉シリーズ セカンドシーズン"
+        ],
+        [
+          "OTHER NAMES",
+          "Nekomonogatari: Shiro, Kabukimonogatari, Otorimonogatari, Onimonogatari"
+        ],
+        [
+          "GENRES",
+          "Comedy, Mystery, Romance, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Vampire"
+        ],
+        [
+          "STUDIO",
+          "Shaft"
+        ],
+        [
+          "FORMAT",
+          "TV · 26 episodes · 2013 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "8.76 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1807/121534l.jpg"
+    },
+    "17895": {
+      "fetched": "2026-10-29T18:49:19.291599+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Golden Time"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Golden Time"
+        ],
+        [
+          "JAPANESE",
+          "ゴールデンタイム"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Drama, Romance"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, Love Polygon"
+        ],
+        [
+          "STUDIO",
+          "J.C.Staff"
+        ],
+        [
+          "FORMAT",
+          "TV · 24 episodes · 2013 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "7.74 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/12/52091l.jpg"
+    },
+    "18153": {
+      "fetched": "2026-10-29T18:50:07.898034+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kyoukai no Kanata"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Beyond the Boundary"
+        ],
+        [
+          "JAPANESE",
+          "境界の彼方"
+        ],
+        [
+          "OTHER NAMES",
+          "Beyond the Horizon"
+        ],
+        [
+          "GENRES",
+          "Action, Supernatural"
+        ],
+        [
+          "THEMES",
+          "School"
+        ],
+        [
+          "STUDIO",
+          "Kyoto Animation"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2013 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "7.71 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/3/85468l.jpg"
+    },
+    "19315": {
+      "fetched": "2026-10-29T18:50:41.242002+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Pupa"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Pupa"
+        ],
+        [
+          "JAPANESE",
+          "Pupa (ピューパ)"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Horror, Suspense"
+        ],
+        [
+          "THEMES",
+          "Gore, Psychological"
+        ],
+        [
+          "STUDIO",
+          "Studio Deen"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2014 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "3.28 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1117/121859l.jpg"
+    },
+    "199": {
+      "fetched": "2026-10-29T18:50:48.441248+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Sen to Chihiro no Kamikakushi"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Spirited Away"
+        ],
+        [
+          "JAPANESE",
+          "千と千尋の神隠し"
+        ],
+        [
+          "OTHER NAMES",
+          "Sen and Chihiro's Spiriting Away"
+        ],
+        [
+          "GENRES",
+          "Adventure, Award Winning, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Mythology"
+        ],
+        [
+          "STUDIO",
+          "Studio Ghibli"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.77 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg"
+    },
+    "2034": {
+      "fetched": "2026-10-29T18:50:09.010318+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Lovely★Complex"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Lovely Complex"
+        ],
+        [
+          "JAPANESE",
+          "ラブ★コン"
+        ],
+        [
+          "OTHER NAMES",
+          "Love★Com, Love Com"
+        ],
+        [
+          "GENRES",
+          "Comedy, Romance"
+        ],
+        [
+          "THEMES",
+          "School, Shoujo"
+        ],
+        [
+          "STUDIO",
+          "Toei Animation"
+        ],
+        [
+          "FORMAT",
+          "TV · 24 episodes · 2007 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "8.03 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/11/75563l.jpg"
+    },
+    "21": {
+      "fetched": "2026-10-29T18:50:31.388162+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "One Piece"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "One Piece"
+        ],
+        [
+          "JAPANESE",
+          "ONE PIECE"
+        ],
+        [
+          "OTHER NAMES",
+          "OP"
+        ],
+        [
+          "GENRES",
+          "Action, Adventure, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Shounen"
+        ],
+        [
+          "STUDIO",
+          "Toei Animation"
+        ],
+        [
+          "FORMAT",
+          "TV · Ongoing / unknown episodes · 1999 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.72 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+    },
+    "22199": {
+      "fetched": "2026-10-29T18:48:48.457169+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Akame ga Kill!"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Akame ga Kill!"
+        ],
+        [
+          "JAPANESE",
+          "アカメが斬る！"
+        ],
+        [
+          "OTHER NAMES",
+          "Akame ga Kiru!"
+        ],
+        [
+          "GENRES",
+          "Action, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Gore, Shounen"
+        ],
+        [
+          "STUDIO",
+          "White Fox"
+        ],
+        [
+          "FORMAT",
+          "TV · 24 episodes · 2014 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "7.48 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg"
+    },
+    "22319": {
+      "fetched": "2026-10-29T18:51:06.013422+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Tokyo Ghoul"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Tokyo Ghoul"
+        ],
+        [
+          "JAPANESE",
+          "東京喰種-トーキョーグール-"
+        ],
+        [
+          "OTHER NAMES",
+          "Tokyo Kushu, Toukyou Kushu, Toukyou Ghoul"
+        ],
+        [
+          "GENRES",
+          "Action, Fantasy, Horror, Suspense"
+        ],
+        [
+          "THEMES",
+          "Gore, Psychological, Urban Fantasy, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Studio Pierrot"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2014 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "7.79 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
+    },
+    "22535": {
+      "fetched": "2026-10-29T18:50:00.102529+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kiseijuu: Sei no Kakuritsu"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Parasyte: The Maxim"
+        ],
+        [
+          "JAPANESE",
+          "寄生獣 セイの格率"
+        ],
+        [
+          "OTHER NAMES",
+          "Parasite, Parasitic Beasts, Parasyte"
+        ],
+        [
+          "GENRES",
+          "Action, Horror, Sci-Fi, Suspense"
+        ],
+        [
+          "THEMES",
+          "Gore, Psychological, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Madhouse"
+        ],
+        [
+          "FORMAT",
+          "TV · 24 episodes · 2014 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.32 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg"
+    },
+    "226": {
+      "fetched": "2026-10-29T18:49:11.520194+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Elfen Lied"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Elfen Lied"
+        ],
+        [
+          "JAPANESE",
+          "エルフェンリート"
+        ],
+        [
+          "OTHER NAMES",
+          "Elfen Song, Elfic Song, Elf Song"
+        ],
+        [
+          "GENRES",
+          "Action, Drama, Horror, Romance, Suspense"
+        ],
+        [
+          "THEMES",
+          "Gore, Psychological, Super Power, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Arms"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2004 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "7.45 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1780/121555l.jpg"
+    },
+    "23273": {
+      "fetched": "2026-10-29T18:50:52.490428+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Shigatsu wa Kimi no Uso"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Your Lie in April"
+        ],
+        [
+          "JAPANESE",
+          "四月は君の嘘"
+        ],
+        [
+          "OTHER NAMES",
+          "Kimiuso"
+        ],
+        [
+          "GENRES",
+          "Drama, Romance"
+        ],
+        [
+          "THEMES",
+          "Love Polygon, Music, Performing Arts, School"
+        ],
+        [
+          "STUDIO",
+          "A-1 Pictures"
+        ],
+        [
+          "FORMAT",
+          "TV · 22 episodes · 2014 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.64 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg"
+    },
+    "24415": {
+      "fetched": "2026-10-29T18:50:07.681830+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kuroko no Basket 3rd Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Kuroko's Basketball 3"
+        ],
+        [
+          "JAPANESE",
+          "黒子のバスケ"
+        ],
+        [
+          "OTHER NAMES",
+          "Kuroko no Basuke 3rd Season, The Basketball Which Kuroko Plays"
+        ],
+        [
+          "GENRES",
+          "Sports"
+        ],
+        [
+          "THEMES",
+          "School, Team Sports, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Production I.G"
+        ],
+        [
+          "FORMAT",
+          "TV · 25 episodes · 2015 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.29 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/4/68299l.jpg"
+    },
+    "27899": {
+      "fetched": "2026-10-29T18:51:07.250413+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Tokyo Ghoul √A"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Tokyo Ghoul √A"
+        ],
+        [
+          "JAPANESE",
+          "東京喰種√A"
+        ],
+        [
+          "OTHER NAMES",
+          "Tokyo Ghoul Root A, Tokyo Ghoul 2nd Season, Tokyo Ghoul Second Season"
+        ],
+        [
+          "GENRES",
+          "Action, Fantasy, Horror, Suspense"
+        ],
+        [
+          "THEMES",
+          "Gore, Psychological, Urban Fantasy, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Studio Pierrot"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2015 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "7.03 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1889/123307l.jpg"
+    },
+    "28223": {
+      "fetched": "2026-10-29T18:49:06.059434+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Death Parade"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Death Parade"
+        ],
+        [
+          "JAPANESE",
+          "デス・パレード"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Drama, Fantasy, Suspense"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, High Stakes Game, Psychological"
+        ],
+        [
+          "STUDIO",
+          "Madhouse"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2015 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.13 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/5/71553l.jpg"
+    },
+    "28825": {
+      "fetched": "2026-10-29T18:49:23.426815+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Himouto! Umaru-chan"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Himouto! Umaru-chan"
+        ],
+        [
+          "JAPANESE",
+          "干物妹！うまるちゃん"
+        ],
+        [
+          "OTHER NAMES",
+          "My Two-Faced Little Sister"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Otaku Culture, School, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Doga Kobo"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2015 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "7.10 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/12/75086l.jpg"
+    },
+    "2890": {
+      "fetched": "2026-10-29T18:49:14.820081+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Gake no Ue no Ponyo"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Ponyo"
+        ],
+        [
+          "JAPANESE",
+          "崖の上のポニョ"
+        ],
+        [
+          "OTHER NAMES",
+          "Ponyo on the Cliff by the Sea"
+        ],
+        [
+          "GENRES",
+          "Adventure, Award Winning, Fantasy"
+        ],
+        [
+          "THEMES",
+          "—"
+        ],
+        [
+          "STUDIO",
+          "Studio Ghibli"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.97 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1331/138727l.jpg"
+    },
+    "28999": {
+      "fetched": "2026-10-29T18:48:58.318736+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Charlotte"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Charlotte"
+        ],
+        [
+          "JAPANESE",
+          "Charlotte（シャーロット）"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Drama"
+        ],
+        [
+          "THEMES",
+          "School, Super Power"
+        ],
+        [
+          "STUDIO",
+          "P.A. Works"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2015 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "7.76 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1826/147276l.jpg"
+    },
+    "31240": {
+      "fetched": "2026-10-29T18:50:42.605092+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Re:Zero kara Hajimeru Isekai Seikatsu"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Re:ZERO -Starting Life in Another World-"
+        ],
+        [
+          "JAPANESE",
+          "Re:ゼロから始める異世界生活"
+        ],
+        [
+          "OTHER NAMES",
+          "Re: Life in a different world from zero, ReZero"
+        ],
+        [
+          "GENRES",
+          "Drama, Fantasy, Suspense"
+        ],
+        [
+          "THEMES",
+          "Isekai, Psychological, Time Travel"
+        ],
+        [
+          "STUDIO",
+          "White Fox"
+        ],
+        [
+          "FORMAT",
+          "TV · 25 episodes · 2016 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "8.25 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg"
+    },
+    "31297": {
+      "fetched": "2026-10-29T18:51:09.245852+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Tokyo Ghoul: \"Pinto\""
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Tokyo Ghoul: Pinto"
+        ],
+        [
+          "JAPANESE",
+          "東京喰種 トーキョーグール【PINTO】"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Fantasy, Horror, Suspense"
+        ],
+        [
+          "THEMES",
+          "Gore, Psychological, Urban Fantasy, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Studio Pierrot"
+        ],
+        [
+          "FORMAT",
+          "OVA · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.20 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/3/78666l.jpg"
+    },
+    "31757": {
+      "fetched": "2026-10-29T18:50:02.360757+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kizumonogatari II: Nekketsu-hen"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Kizumonogatari Part 2: Hot-Blooded"
+        ],
+        [
+          "JAPANESE",
+          "傷物語〈Ⅱ熱血篇〉"
+        ],
+        [
+          "OTHER NAMES",
+          "Koyomi Vamp, Kizumonogatari Part 2"
+        ],
+        [
+          "GENRES",
+          "Action, Mystery, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Vampire"
+        ],
+        [
+          "STUDIO",
+          "Shaft"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.56 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1981/112812l.jpg"
+    },
+    "31758": {
+      "fetched": "2026-10-29T18:50:03.382866+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kizumonogatari III: Reiketsu-hen"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Kizumonogatari Part 3: Cold-Blooded"
+        ],
+        [
+          "JAPANESE",
+          "傷物語〈Ⅲ冷血篇〉"
+        ],
+        [
+          "OTHER NAMES",
+          "Koyomi Vamp"
+        ],
+        [
+          "GENRES",
+          "Action, Mystery, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Vampire"
+        ],
+        [
+          "STUDIO",
+          "Shaft"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.78 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg"
+    },
+    "322": {
+      "fetched": "2026-10-29T18:50:33.492870+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Paradise Kiss"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Paradise Kiss"
+        ],
+        [
+          "JAPANESE",
+          "Paradise kiss"
+        ],
+        [
+          "OTHER NAMES",
+          "ParaKiss"
+        ],
+        [
+          "GENRES",
+          "Drama, Romance"
+        ],
+        [
+          "THEMES",
+          "School, Visual Arts, Josei"
+        ],
+        [
+          "STUDIO",
+          "Madhouse"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2005 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "7.89 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/7/80636l.jpg"
+    },
+    "32977": {
+      "fetched": "2026-10-29T18:48:41.477456+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Aggressive Retsuko"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Aggretsuko"
+        ],
+        [
+          "JAPANESE",
+          "アグレッシブ烈子"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Anthropomorphic, Music, Workplace"
+        ],
+        [
+          "STUDIO",
+          "Fanworks"
+        ],
+        [
+          "FORMAT",
+          "TV · 100 episodes · 2016 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "7.61 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1080/152848l.jpg"
+    },
+    "33255": {
+      "fetched": "2026-10-29T18:50:44.163486+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Saiki Kusuo no Ψ-nan"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "The Disastrous Life of Saiki K."
+        ],
+        [
+          "JAPANESE",
+          "斉木楠雄のΨ難"
+        ],
+        [
+          "OTHER NAMES",
+          "Saiki Kusuo no Psi Nan, Saiki Kusuo no Sainan"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Gag Humor, School, Super Power, Shounen"
+        ],
+        [
+          "STUDIO",
+          "J.C.Staff, Egg Firm"
+        ],
+        [
+          "FORMAT",
+          "TV · 120 episodes · 2016 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "8.41 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1973/142750l.jpg"
+    },
+    "339": {
+      "fetched": "2026-10-29T18:50:49.471552+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Serial Experiments Lain"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Serial Experiments Lain"
+        ],
+        [
+          "JAPANESE",
+          "serial experiments lain"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Avant Garde, Award Winning, Drama, Mystery, Sci-Fi, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Psychological"
+        ],
+        [
+          "STUDIO",
+          "Triangle Staff"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 1998 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "8.11 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1718/91550l.jpg"
+    },
+    "34537": {
+      "fetched": "2026-10-29T18:51:34.294885+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Yoru wa Mijikashi Arukeyo Otome"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Night Is Short, Walk on Girl"
+        ],
+        [
+          "JAPANESE",
+          "夜は短し歩けよ乙女"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Comedy, Romance"
+        ],
+        [
+          "THEMES",
+          "Adult Cast"
+        ],
+        [
+          "STUDIO",
+          "Science SARU"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.18 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/2/86940l.jpg"
+    },
+    "34542": {
+      "fetched": "2026-10-29T18:49:36.782240+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Inuyashiki"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Inuyashiki: Last Hero"
+        ],
+        [
+          "JAPANESE",
+          "いぬやしき"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Drama, Sci-Fi, Suspense"
+        ],
+        [
+          "THEMES",
+          "Gore, Psychological, Seinen"
+        ],
+        [
+          "STUDIO",
+          "MAPPA"
+        ],
+        [
+          "FORMAT",
+          "TV · 11 episodes · 2017 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "7.62 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/7/88471l.jpg"
+    },
+    "34933": {
+      "fetched": "2026-10-29T18:49:55.691238+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kakegurui"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Kakegurui"
+        ],
+        [
+          "JAPANESE",
+          "賭ケグルイ"
+        ],
+        [
+          "OTHER NAMES",
+          "Kakegurui: Compulsive Gambler, Gambling School"
+        ],
+        [
+          "GENRES",
+          "Drama, Mystery, Suspense"
+        ],
+        [
+          "THEMES",
+          "High Stakes Game, Psychological, School, Strategy Game"
+        ],
+        [
+          "STUDIO",
+          "MAPPA"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2017 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "7.21 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/3/86578l.jpg"
+    },
+    "35557": {
+      "fetched": "2026-10-29T18:49:33.221389+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Houseki no Kuni"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Land of the Lustrous"
+        ],
+        [
+          "JAPANESE",
+          "宝石の国"
+        ],
+        [
+          "OTHER NAMES",
+          "Country of Jewels"
+        ],
+        [
+          "GENRES",
+          "Action, Drama, Fantasy, Mystery"
+        ],
+        [
+          "THEMES",
+          "Anthropomorphic, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Orange"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2017 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.39 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/3/88293l.jpg"
+    },
+    "35737": {
+      "fetched": "2026-10-29T18:50:40.546871+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Pluto"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Pluto"
+        ],
+        [
+          "JAPANESE",
+          "プルートウ"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Mystery, Sci-Fi, Suspense"
+        ],
+        [
+          "THEMES",
+          "Detective, Psychological, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Studio M2"
+        ],
+        [
+          "FORMAT",
+          "ONA · 8 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.44 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1021/138568l.jpg"
+    },
+    "36124": {
+      "fetched": "2026-10-29T18:49:37.886381+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Itou Junji: Collection"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Junji Ito Collection"
+        ],
+        [
+          "JAPANESE",
+          "伊藤潤二「コレクション」"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Drama, Horror, Mystery, Supernatural, Suspense"
+        ],
+        [
+          "THEMES",
+          "Psychological"
+        ],
+        [
+          "STUDIO",
+          "Studio Deen"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2018 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "6.60 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/7/88366l.jpg"
+    },
+    "36904": {
+      "fetched": "2026-10-29T18:48:41.991716+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Aggressive Retsuko (ONA)"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Aggretsuko (ONA)"
+        ],
+        [
+          "JAPANESE",
+          "アグレッシブ烈子"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Anthropomorphic, Workplace"
+        ],
+        [
+          "STUDIO",
+          "Fanworks"
+        ],
+        [
+          "FORMAT",
+          "ONA · 10 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.63 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1566/129181l.jpg"
+    },
+    "37086": {
+      "fetched": "2026-10-29T18:49:56.788614+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kakegurui××"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Kakegurui××"
+        ],
+        [
+          "JAPANESE",
+          "賭ケグルイ××"
+        ],
+        [
+          "OTHER NAMES",
+          "Kakegurui 2nd Season, Kakegurui: Compulsive Gambler 2nd Season, Gambling School 2nd Season"
+        ],
+        [
+          "GENRES",
+          "Drama, Mystery, Suspense"
+        ],
+        [
+          "THEMES",
+          "High Stakes Game, Psychological, School, Strategy Game"
+        ],
+        [
+          "STUDIO",
+          "MAPPA"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2019 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "7.18 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1496/96519l.jpg"
+    },
+    "37450": {
+      "fetched": "2026-10-29T18:50:47.404268+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Rascal Does Not Dream of Bunny Girl Senpai"
+        ],
+        [
+          "JAPANESE",
+          "青春ブタ野郎はバニーガール先輩の夢を見ない"
+        ],
+        [
+          "OTHER NAMES",
+          "AoButa"
+        ],
+        [
+          "GENRES",
+          "Drama, Romance, Supernatural"
+        ],
+        [
+          "THEMES",
+          "School"
+        ],
+        [
+          "STUDIO",
+          "CloverWorks"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2018 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.23 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1301/93586l.jpg"
+    },
+    "37985": {
+      "fetched": "2026-10-29T18:48:43.581187+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Aggressive Retsuko (ONA) 2nd Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Aggretsuko (ONA) 2nd Season"
+        ],
+        [
+          "JAPANESE",
+          "アグレッシブ烈子第2期"
+        ],
+        [
+          "OTHER NAMES",
+          "Aggretsuko 2nd Season"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Anthropomorphic, Workplace"
+        ],
+        [
+          "STUDIO",
+          "Fanworks"
+        ],
+        [
+          "FORMAT",
+          "ONA · 10 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.72 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1739/101117l.jpg"
+    },
+    "38000": {
+      "fetched": "2026-10-29T18:49:58.996634+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kimetsu no Yaiba"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Demon Slayer: Kimetsu no Yaiba"
+        ],
+        [
+          "JAPANESE",
+          "鬼滅の刃"
+        ],
+        [
+          "OTHER NAMES",
+          "Blade of Demon Destruction"
+        ],
+        [
+          "GENRES",
+          "Action, Award Winning, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Historical, Shounen"
+        ],
+        [
+          "STUDIO",
+          "ufotable"
+        ],
+        [
+          "FORMAT",
+          "TV · 26 episodes · 2019 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "8.39 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+    },
+    "38101": {
+      "fetched": "2026-10-29T18:48:37.510253+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "5-toubun no Hanayome"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "The Quintessential Quintuplets"
+        ],
+        [
+          "JAPANESE",
+          "五等分の花嫁"
+        ],
+        [
+          "OTHER NAMES",
+          "Gotoubun no Hanayome, The Five Wedded Brides"
+        ],
+        [
+          "GENRES",
+          "Comedy, Romance"
+        ],
+        [
+          "THEMES",
+          "Harem, School, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Tezuka Productions"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2019 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "7.62 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1819/97947l.jpg"
+    },
+    "38668": {
+      "fetched": "2026-10-29T18:49:07.234235+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Dorohedoro"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Dorohedoro"
+        ],
+        [
+          "JAPANESE",
+          "ドロヘドロ"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Comedy, Fantasy, Horror"
+        ],
+        [
+          "THEMES",
+          "Gore, Seinen"
+        ],
+        [
+          "STUDIO",
+          "MAPPA"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2020 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.05 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1230/119278l.jpg"
+    },
+    "38815": {
+      "fetched": "2026-10-29T18:48:47.247526+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Aggressive Retsuko: We Wish You a Metal Christmas"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Aggretsuko: We Wish You a Metal Christmas"
+        ],
+        [
+          "JAPANESE",
+          "アグレッシブ烈子: We Wish You a Metal Christmas"
+        ],
+        [
+          "OTHER NAMES",
+          "Aggretsuko: We Wish You a Metal Christmas"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Anthropomorphic"
+        ],
+        [
+          "STUDIO",
+          "Fanworks"
+        ],
+        [
+          "FORMAT",
+          "ONA · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.23 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1435/97291l.jpg"
+    },
+    "39195": {
+      "fetched": "2026-10-29T18:48:55.056403+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Beastars"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Beastars"
+        ],
+        [
+          "JAPANESE",
+          "BEASTARS"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Drama, Suspense"
+        ],
+        [
+          "THEMES",
+          "Anthropomorphic, Psychological, School, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Orange"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2019 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "7.78 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1713/145599l.jpg"
+    },
+    "39535": {
+      "fetched": "2026-10-29T18:50:17.989606+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Mushoku Tensei: Isekai Ittara Honki Dasu"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Mushoku Tensei: Jobless Reincarnation"
+        ],
+        [
+          "JAPANESE",
+          "無職転生 ～異世界行ったら本気だす～"
+        ],
+        [
+          "OTHER NAMES",
+          "Jobless Reincarnation: I Will Seriously Try If I Go To Another World"
+        ],
+        [
+          "GENRES",
+          "Adventure, Drama, Fantasy, Ecchi"
+        ],
+        [
+          "THEMES",
+          "Isekai, Reincarnation"
+        ],
+        [
+          "STUDIO",
+          "Studio Bind"
+        ],
+        [
+          "FORMAT",
+          "TV · 11 episodes · 2021 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.31 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1530/117776l.jpg"
+    },
+    "39783": {
+      "fetched": "2026-10-29T18:48:39.641615+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "5-toubun no Hanayome ∬"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "The Quintessential Quintuplets 2"
+        ],
+        [
+          "JAPANESE",
+          "五等分の花嫁∬"
+        ],
+        [
+          "OTHER NAMES",
+          "Gotoubun no Hanayome 2nd Season, The Five Wedded Brides 2nd Season, 5-toubun no Hanayome 2nd Season, The Quintessential Quintuplets 2nd Season"
+        ],
+        [
+          "GENRES",
+          "Comedy, Romance"
+        ],
+        [
+          "THEMES",
+          "Harem, School, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Bibury Animation Studios"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2021 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.00 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1775/109514l.jpg"
+    },
+    "40060": {
+      "fetched": "2026-10-29T18:48:52.845984+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "BNA"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "BNA: Brand New Animal"
+        ],
+        [
+          "JAPANESE",
+          "BNA ビー・エヌ・エー"
+        ],
+        [
+          "OTHER NAMES",
+          "Brand New Animal"
+        ],
+        [
+          "GENRES",
+          "Action, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Anthropomorphic, Urban Fantasy"
+        ],
+        [
+          "STUDIO",
+          "Trigger"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2020 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "7.34 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1139/106986l.jpg"
+    },
+    "40215": {
+      "fetched": "2026-10-29T18:48:44.763839+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Aggressive Retsuko (ONA) 3rd Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Aggretsuko (ONA) 3rd Season"
+        ],
+        [
+          "JAPANESE",
+          "アグレッシブ烈子第3期"
+        ],
+        [
+          "OTHER NAMES",
+          "Aggretsuko 3rd Season"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Anthropomorphic, Workplace"
+        ],
+        [
+          "STUDIO",
+          "Fanworks"
+        ],
+        [
+          "FORMAT",
+          "ONA · 10 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.77 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1049/108692l.jpg"
+    },
+    "40748": {
+      "fetched": "2026-10-29T18:49:51.198260+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Jujutsu Kaisen"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Jujutsu Kaisen"
+        ],
+        [
+          "JAPANESE",
+          "呪術廻戦"
+        ],
+        [
+          "OTHER NAMES",
+          "Sorcery Fight, JJK"
+        ],
+        [
+          "GENRES",
+          "Action, Award Winning, Supernatural"
+        ],
+        [
+          "THEMES",
+          "School, Shounen"
+        ],
+        [
+          "STUDIO",
+          "MAPPA"
+        ],
+        [
+          "FORMAT",
+          "TV · 24 episodes · 2020 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.48 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
+    },
+    "41226": {
+      "fetched": "2026-10-29T18:51:30.112173+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Uzaki-chan wa Asobitai!"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Uzaki-chan Wants to Hang Out!"
+        ],
+        [
+          "JAPANESE",
+          "宇崎ちゃんは遊びたい！"
+        ],
+        [
+          "OTHER NAMES",
+          "Uzaki-chan Wants to Play!"
+        ],
+        [
+          "GENRES",
+          "Comedy, Romance"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, Love Status Quo"
+        ],
+        [
+          "STUDIO",
+          "ENGI"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2020 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "6.95 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1540/108292l.jpg"
+    },
+    "41361": {
+      "fetched": "2026-10-29T18:49:10.417165+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Eiga Daisuki Pompo-san"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Pompo: The Cinéphile"
+        ],
+        [
+          "JAPANESE",
+          "映画大好きポンポさん"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Comedy, Drama"
+        ],
+        [
+          "THEMES",
+          "Showbiz"
+        ],
+        [
+          "STUDIO",
+          "CLAP"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.13 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1210/119193l.jpg"
+    },
+    "4224": {
+      "fetched": "2026-10-29T18:51:11.658479+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Toradora!"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Toradora!"
+        ],
+        [
+          "JAPANESE",
+          "とらドラ！"
+        ],
+        [
+          "OTHER NAMES",
+          "Tiger X Dragon"
+        ],
+        [
+          "GENRES",
+          "Drama, Romance"
+        ],
+        [
+          "THEMES",
+          "Love Polygon, School"
+        ],
+        [
+          "STUDIO",
+          "J.C.Staff"
+        ],
+        [
+          "FORMAT",
+          "TV · 25 episodes · 2008 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.03 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/13/22128l.jpg"
+    },
+    "42310": {
+      "fetched": "2026-10-29T18:49:00.558786+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Cyberpunk: Edgerunners"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Cyberpunk: Edgerunners"
+        ],
+        [
+          "JAPANESE",
+          "サイバーパンク エッジランナーズ"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Sci-Fi"
+        ],
+        [
+          "THEMES",
+          "Gore, Organized Crime"
+        ],
+        [
+          "STUDIO",
+          "Trigger"
+        ],
+        [
+          "FORMAT",
+          "ONA · 10 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.63 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
+    },
+    "431": {
+      "fetched": "2026-10-29T18:49:33.488659+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Howl no Ugoku Shiro"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Howl's Moving Castle"
+        ],
+        [
+          "JAPANESE",
+          "ハウルの動く城"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Adventure, Award Winning, Drama, Fantasy, Romance"
+        ],
+        [
+          "THEMES",
+          "—"
+        ],
+        [
+          "STUDIO",
+          "Studio Ghibli"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.67 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg"
+    },
+    "43690": {
+      "fetched": "2026-10-29T18:51:03.789473+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Tenkuu Shinpan"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "High-Rise Invasion"
+        ],
+        [
+          "JAPANESE",
+          "天空侵犯"
+        ],
+        [
+          "OTHER NAMES",
+          "Sky-High Survival, Sky Violation"
+        ],
+        [
+          "GENRES",
+          "Action, Horror, Mystery, Suspense"
+        ],
+        [
+          "THEMES",
+          "Gore, Survival"
+        ],
+        [
+          "STUDIO",
+          "Zero-G"
+        ],
+        [
+          "FORMAT",
+          "ONA · 12 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "6.67 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1547/117947l.jpg"
+    },
+    "43692": {
+      "fetched": "2026-10-29T18:49:16.862010+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Gokushufudou"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "The Way of the Househusband"
+        ],
+        [
+          "JAPANESE",
+          "極主夫道"
+        ],
+        [
+          "OTHER NAMES",
+          "The Way of the House Husband, Yakuza goes Houseman"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, Gag Humor, Organized Crime"
+        ],
+        [
+          "STUDIO",
+          "J.C.Staff"
+        ],
+        [
+          "FORMAT",
+          "ONA · 5 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.26 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1535/117726l.jpg"
+    },
+    "437": {
+      "fetched": "2026-10-29T18:50:34.704823+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Perfect Blue"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Perfect Blue"
+        ],
+        [
+          "JAPANESE",
+          "パーフェクトブルー"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Avant Garde, Award Winning, Drama, Horror, Suspense"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, Psychological, Showbiz"
+        ],
+        [
+          "STUDIO",
+          "Madhouse"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.56 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1254/134212l.jpg"
+    },
+    "44511": {
+      "fetched": "2026-10-29T18:48:57.167642+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Chainsaw Man"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Chainsaw Man"
+        ],
+        [
+          "JAPANESE",
+          "チェンソーマン"
+        ],
+        [
+          "OTHER NAMES",
+          "CSM"
+        ],
+        [
+          "GENRES",
+          "Action, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Gore, Urban Fantasy, Shounen"
+        ],
+        [
+          "STUDIO",
+          "MAPPA"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2022 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.41 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
+    },
+    "44961": {
+      "fetched": "2026-10-29T18:50:35.925032+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Platinum End"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Platinum End"
+        ],
+        [
+          "JAPANESE",
+          "プラチナエンド"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Drama, Supernatural, Suspense"
+        ],
+        [
+          "THEMES",
+          "Mythology, Psychological, Survival, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Signal.MD"
+        ],
+        [
+          "FORMAT",
+          "TV · 24 episodes · 2021 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "6.01 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1992/116576l.jpg"
+    },
+    "45489": {
+      "fetched": "2026-10-29T18:48:45.161063+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Aggressive Retsuko (ONA) 4th Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Aggretsuko (ONA) 4th Season"
+        ],
+        [
+          "JAPANESE",
+          "アグレッシブ烈子第4期"
+        ],
+        [
+          "OTHER NAMES",
+          "Aggretsuko 4th Season"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Anthropomorphic, Workplace"
+        ],
+        [
+          "STUDIO",
+          "Fanworks"
+        ],
+        [
+          "FORMAT",
+          "ONA · 10 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.28 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1228/118066l.jpg"
+    },
+    "46352": {
+      "fetched": "2026-10-29T18:48:56.240492+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Blue Period"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Blue Period"
+        ],
+        [
+          "JAPANESE",
+          "ブルーピリオド"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Drama"
+        ],
+        [
+          "THEMES",
+          "School, Visual Arts, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Seven Arcs"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2021 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "7.79 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1757/116931l.jpg"
+    },
+    "46569": {
+      "fetched": "2026-10-29T18:49:38.929159+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Jigokuraku"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Hell's Paradise"
+        ],
+        [
+          "JAPANESE",
+          "地獄楽"
+        ],
+        [
+          "OTHER NAMES",
+          "Paradition, Heavenhell"
+        ],
+        [
+          "GENRES",
+          "Action, Adventure, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Gore, Historical, Samurai, Shounen"
+        ],
+        [
+          "STUDIO",
+          "MAPPA"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2023 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "8.08 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1075/131925l.jpg"
+    },
+    "48425": {
+      "fetched": "2026-10-29T18:48:49.795175+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Akuma-kun (ONA)"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Akuma-kun (ONA)"
+        ],
+        [
+          "JAPANESE",
+          "悪魔くん"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Horror, Supernatural, Suspense"
+        ],
+        [
+          "THEMES",
+          "Mythology"
+        ],
+        [
+          "STUDIO",
+          "Encourage Films"
+        ],
+        [
+          "FORMAT",
+          "ONA · 12 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "6.74 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1465/156835l.jpg"
+    },
+    "48548": {
+      "fetched": "2026-10-29T18:48:38.597273+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "5-toubun no Hanayome Movie"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "The Quintessential Quintuplets Movie"
+        ],
+        [
+          "JAPANESE",
+          "映画 五等分の花嫁"
+        ],
+        [
+          "OTHER NAMES",
+          "Gotoubun no Hanayome, The Five Wedded Brides, The Quintessential Quintuplets"
+        ],
+        [
+          "GENRES",
+          "Comedy, Romance"
+        ],
+        [
+          "THEMES",
+          "Harem, School, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Bibury Animation Studios"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.82 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1037/122516l.jpg"
+    },
+    "48661": {
+      "fetched": "2026-10-29T18:49:50.819325+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "JoJo no Kimyou na Bouken Part 6: Stone Ocean"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "JoJo's Bizarre Adventure: Stone Ocean"
+        ],
+        [
+          "JAPANESE",
+          "ジョジョの奇妙な冒険 ストーンオーシャン"
+        ],
+        [
+          "OTHER NAMES",
+          "JoJo's Bizarre Adventure Part 6: Stone Ocean"
+        ],
+        [
+          "GENRES",
+          "Action, Adventure"
+        ],
+        [
+          "THEMES",
+          "Super Power, Shounen"
+        ],
+        [
+          "STUDIO",
+          "David Production"
+        ],
+        [
+          "FORMAT",
+          "ONA · 12 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.04 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1896/119844l.jpg"
+    },
+    "48707": {
+      "fetched": "2026-10-29T18:49:17.578722+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Gokushufudou Part 2"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "The Way of the Househusband Part 2"
+        ],
+        [
+          "JAPANESE",
+          "極主夫道"
+        ],
+        [
+          "OTHER NAMES",
+          "The Way of the House Husband 2, The Way of the Househusband 2, Gokushufudou 2"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, Gag Humor, Organized Crime"
+        ],
+        [
+          "STUDIO",
+          "J.C.Staff"
+        ],
+        [
+          "FORMAT",
+          "ONA · 5 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.53 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1942/120785l.jpg"
+    },
+    "48736": {
+      "fetched": "2026-10-29T18:50:53.949584+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Sono Bisque Doll wa Koi wo Suru"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "My Dress-Up Darling"
+        ],
+        [
+          "JAPANESE",
+          "その着せ替え人形は恋をする"
+        ],
+        [
+          "OTHER NAMES",
+          "Sono Kisekae Ningyou wa Koi wo Suru, KiseKoi"
+        ],
+        [
+          "GENRES",
+          "Romance"
+        ],
+        [
+          "THEMES",
+          "Otaku Culture, School, Seinen"
+        ],
+        [
+          "STUDIO",
+          "CloverWorks"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2022 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.12 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
+    },
+    "49154": {
+      "fetched": "2026-10-29T18:49:22.111641+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "High Card"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "High Card"
+        ],
+        [
+          "JAPANESE",
+          "HIGH CARD"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Organized Crime"
+        ],
+        [
+          "STUDIO",
+          "Studio Hibari"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2023 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "7.16 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1803/131345l.jpg"
+    },
+    "50265": {
+      "fetched": "2026-10-29T18:50:57.250898+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Spy x Family"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Spy x Family"
+        ],
+        [
+          "JAPANESE",
+          "SPY×FAMILY"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Award Winning, Comedy"
+        ],
+        [
+          "THEMES",
+          "Childcare, Super Power, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Wit Studio, CloverWorks"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2022 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "8.40 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1441/122795l.jpg"
+    },
+    "50346": {
+      "fetched": "2026-10-29T18:51:31.116988+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Yofukashi no Uta"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Call of the Night"
+        ],
+        [
+          "JAPANESE",
+          "よふかしのうた"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Romance, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Vampire, Shounen"
+        ],
+        [
+          "STUDIO",
+          "LIDENFILMS"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2022 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "7.94 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1045/123711l.jpg"
+    },
+    "50461": {
+      "fetched": "2026-10-29T18:50:32.491066+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Otome Game Sekai wa Mob ni Kibishii Sekai desu"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs"
+        ],
+        [
+          "JAPANESE",
+          "乙女ゲー世界はモブに厳しい世界です"
+        ],
+        [
+          "OTHER NAMES",
+          "Otomege Sekai wa Mob ni Kibishii Sekai desu, Mobseka, Mobuseka"
+        ],
+        [
+          "GENRES",
+          "Fantasy, Romance"
+        ],
+        [
+          "THEMES",
+          "Harem, Isekai, Mecha, Reincarnation"
+        ],
+        [
+          "STUDIO",
+          "ENGI"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2022 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "7.30 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1161/121462l.jpg"
+    },
+    "50586": {
+      "fetched": "2026-10-29T18:50:13.397974+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Migi to Dali"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Migi & Dali"
+        ],
+        [
+          "JAPANESE",
+          "ミギとダリ"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Comedy, Mystery, Suspense"
+        ],
+        [
+          "THEMES",
+          "Seinen"
+        ],
+        [
+          "STUDIO",
+          "Geek Toys, CompTown"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2023 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "7.68 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1845/134817l.jpg"
+    },
+    "50598": {
+      "fetched": "2026-10-29T18:48:47.001041+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Aggressive Retsuko (ONA) 5th Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Aggretsuko (ONA) 5th Season"
+        ],
+        [
+          "JAPANESE",
+          "グレッシブ烈子"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Anthropomorphic, Workplace"
+        ],
+        [
+          "STUDIO",
+          "Fanworks"
+        ],
+        [
+          "FORMAT",
+          "ONA · 10 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.41 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1321/132900l.jpg"
+    },
+    "50602": {
+      "fetched": "2026-10-29T18:50:58.368966+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Spy x Family Part 2"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Spy x Family Part 2"
+        ],
+        [
+          "JAPANESE",
+          "SPY×FAMILY"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Comedy"
+        ],
+        [
+          "THEMES",
+          "Childcare, Super Power, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Wit Studio, CloverWorks"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2022 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.19 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg"
+    },
+    "5081": {
+      "fetched": "2026-10-29T18:48:53.976395+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Bakemonogatari"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Bakemonogatari"
+        ],
+        [
+          "JAPANESE",
+          "化物語"
+        ],
+        [
+          "OTHER NAMES",
+          "Ghostory, Monstory"
+        ],
+        [
+          "GENRES",
+          "Mystery, Romance, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Vampire"
+        ],
+        [
+          "STUDIO",
+          "Shaft"
+        ],
+        [
+          "FORMAT",
+          "TV · 15 episodes · 2009 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "8.32 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/11/75274l.jpg"
+    },
+    "51009": {
+      "fetched": "2026-10-29T18:49:52.398994+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Jujutsu Kaisen 2nd Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Jujutsu Kaisen Season 2"
+        ],
+        [
+          "JAPANESE",
+          "呪術廻戦 懐玉・玉折／渋谷事変"
+        ],
+        [
+          "OTHER NAMES",
+          "Jujutsu Kaisen: Kaigyoku Gyokusetsu, Jujutsu Kaisen: Shibuya Jihen, Jujutsu Kaisen: Hidden Inventory Arc, Jujutsu Kaisen: Shibuya Incident Arc"
+        ],
+        [
+          "GENRES",
+          "Action, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Gore, School, Shounen"
+        ],
+        [
+          "STUDIO",
+          "MAPPA"
+        ],
+        [
+          "FORMAT",
+          "TV · 23 episodes · 2023 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "8.69 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg"
+    },
+    "5114": {
+      "fetched": "2026-10-29T18:49:13.767203+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Fullmetal Alchemist: Brotherhood"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Fullmetal Alchemist: Brotherhood"
+        ],
+        [
+          "JAPANESE",
+          "鋼の錬金術師 FULLMETAL ALCHEMIST"
+        ],
+        [
+          "OTHER NAMES",
+          "Hagane no Renkinjutsushi: Fullmetal Alchemist, Fullmetal Alchemist (2009), FMA, FMAB"
+        ],
+        [
+          "GENRES",
+          "Action, Adventure, Drama, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Military, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Bones"
+        ],
+        [
+          "FORMAT",
+          "TV · 64 episodes · 2009 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "9.11 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+    },
+    "512": {
+      "fetched": "2026-10-29T18:50:10.154094+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Majo no Takkyuubin"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Kiki's Delivery Service"
+        ],
+        [
+          "JAPANESE",
+          "魔女の宅急便"
+        ],
+        [
+          "OTHER NAMES",
+          "Witch's Express Delivery"
+        ],
+        [
+          "GENRES",
+          "Adventure, Award Winning, Comedy, Drama, Fantasy"
+        ],
+        [
+          "THEMES",
+          "—"
+        ],
+        [
+          "STUDIO",
+          "Studio Ghibli"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.24 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1579/140483l.jpg"
+    },
+    "52034": {
+      "fetched": "2026-10-29T18:51:34.486976+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "[Oshi no Ko]"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "[Oshi No Ko]"
+        ],
+        [
+          "JAPANESE",
+          "【推しの子】"
+        ],
+        [
+          "OTHER NAMES",
+          "My Star"
+        ],
+        [
+          "GENRES",
+          "Award Winning, Drama"
+        ],
+        [
+          "THEMES",
+          "Reincarnation, Showbiz, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Doga Kobo"
+        ],
+        [
+          "FORMAT",
+          "TV · 11 episodes · 2023 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "8.52 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg"
+    },
+    "523": {
+      "fetched": "2026-10-29T18:51:10.606856+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Tonari no Totoro"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "My Neighbor Totoro"
+        ],
+        [
+          "JAPANESE",
+          "となりのトトロ"
+        ],
+        [
+          "OTHER NAMES",
+          "My Neighbour Totoro"
+        ],
+        [
+          "GENRES",
+          "Adventure, Award Winning, Supernatural"
+        ],
+        [
+          "THEMES",
+          "—"
+        ],
+        [
+          "STUDIO",
+          "Studio Ghibli"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.25 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1110/147278l.jpg"
+    },
+    "52701": {
+      "fetched": "2026-10-29T18:49:09.867909+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Dungeon Meshi"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Delicious in Dungeon"
+        ],
+        [
+          "JAPANESE",
+          "ダンジョン飯"
+        ],
+        [
+          "OTHER NAMES",
+          "Dungeon Food, Dungeon Dining"
+        ],
+        [
+          "GENRES",
+          "Adventure, Comedy, Fantasy, Gourmet"
+        ],
+        [
+          "THEMES",
+          "Seinen"
+        ],
+        [
+          "STUDIO",
+          "Trigger"
+        ],
+        [
+          "FORMAT",
+          "TV · 24 episodes · 2024 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.58 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1711/142478l.jpg"
+    },
+    "52816": {
+      "fetched": "2026-10-29T18:50:11.818171+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Majo to Yajuu"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "The Witch and the Beast"
+        ],
+        [
+          "JAPANESE",
+          "魔女と野獣"
+        ],
+        [
+          "OTHER NAMES",
+          "Witch and the Beast"
+        ],
+        [
+          "GENRES",
+          "Action, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, Gore, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Yokohama Animation Lab"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2024 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "7.46 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1380/139745l.jpg"
+    },
+    "52865": {
+      "fetched": "2026-10-29T18:50:43.047145+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Romantic Killer"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Romantic Killer"
+        ],
+        [
+          "JAPANESE",
+          "ロマンティック・キラー"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Comedy, Romance, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Parody, Reverse Harem, Shounen"
+        ],
+        [
+          "STUDIO",
+          "domerica"
+        ],
+        [
+          "FORMAT",
+          "ONA · 12 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.89 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1764/142001l.jpg"
+    },
+    "52991": {
+      "fetched": "2026-10-29T18:50:55.016721+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Sousou no Frieren"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Frieren: Beyond Journey's End"
+        ],
+        [
+          "JAPANESE",
+          "葬送のフリーレン"
+        ],
+        [
+          "OTHER NAMES",
+          "Frieren at the Funeral, Frieren The Slayer"
+        ],
+        [
+          "GENRES",
+          "Adventure, Award Winning, Drama, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Shounen"
+        ],
+        [
+          "STUDIO",
+          "Madhouse"
+        ],
+        [
+          "FORMAT",
+          "TV · 28 episodes · 2023 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "9.24 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg"
+    },
+    "53148": {
+      "fetched": "2026-10-29T18:49:18.713534+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Gokushufudou Season 2"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "The Way of the Househusband Season 2"
+        ],
+        [
+          "JAPANESE",
+          "極主夫道"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, Gag Humor, Organized Crime"
+        ],
+        [
+          "STUDIO",
+          "J.C.Staff"
+        ],
+        [
+          "FORMAT",
+          "ONA · 5 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.56 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1985/132227l.jpg"
+    },
+    "53447": {
+      "fetched": "2026-10-29T18:51:29.898013+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Tu Bian Yingxiong X"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "To Be Hero X"
+        ],
+        [
+          "JAPANESE",
+          "凸变英雄X"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action"
+        ],
+        [
+          "THEMES",
+          "Super Power"
+        ],
+        [
+          "STUDIO",
+          "Pb Animation, LAN Studio, Paper Plane Animation Studio"
+        ],
+        [
+          "FORMAT",
+          "ONA · 24 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.66 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1492/150628l.jpg"
+    },
+    "53887": {
+      "fetched": "2026-10-29T18:50:59.485403+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Spy x Family Season 2"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Spy x Family Season 2"
+        ],
+        [
+          "JAPANESE",
+          "SPY×FAMILY Season 2"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Comedy"
+        ],
+        [
+          "THEMES",
+          "Childcare, Super Power, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Wit Studio, CloverWorks"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2023 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.05 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1506/138982l.jpg"
+    },
+    "54381": {
+      "fetched": "2026-10-29T18:49:24.490309+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Hot Minute: Aggretsuko"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Hot Minute: Aggretsuko"
+        ],
+        [
+          "JAPANESE",
+          "アグレッシブ烈子"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Comedy"
+        ],
+        [
+          "THEMES",
+          "Kids"
+        ],
+        [
+          "STUDIO",
+          "—"
+        ],
+        [
+          "FORMAT",
+          "ONA · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "6.01 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1710/133155l.jpg"
+    },
+    "55791": {
+      "fetched": "2026-10-29T18:51:35.729830+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "[Oshi no Ko] 2nd Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "[Oshi No Ko] Season 2"
+        ],
+        [
+          "JAPANESE",
+          "【推しの子】第2期"
+        ],
+        [
+          "OTHER NAMES",
+          "My Star Season 2"
+        ],
+        [
+          "GENRES",
+          "Drama"
+        ],
+        [
+          "THEMES",
+          "Reincarnation, Showbiz, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Doga Kobo"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2024 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "8.49 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1006/143302l.jpg"
+    },
+    "55825": {
+      "fetched": "2026-10-29T18:49:39.977123+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Jigokuraku 2nd Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Hell's Paradise Season 2"
+        ],
+        [
+          "JAPANESE",
+          "地獄楽第二期"
+        ],
+        [
+          "OTHER NAMES",
+          "Paradition, Heavenhell"
+        ],
+        [
+          "GENRES",
+          "Action, Adventure, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Gore, Historical, Samurai, Shounen"
+        ],
+        [
+          "STUDIO",
+          "MAPPA"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2026 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.15 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1772/154456l.jpg"
+    },
+    "56146": {
+      "fetched": "2026-10-29T18:49:20.299097+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Good Night World"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Good Night World"
+        ],
+        [
+          "JAPANESE",
+          "グッド・ナイト・ワールド"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Drama, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Psychological, Video Game"
+        ],
+        [
+          "STUDIO",
+          "NAZ"
+        ],
+        [
+          "FORMAT",
+          "ONA · 12 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "6.99 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1330/137476l.jpg"
+    },
+    "57334": {
+      "fetched": "2026-10-29T18:49:02.186917+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Dandadan"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Dan Da Dan"
+        ],
+        [
+          "JAPANESE",
+          "ダンダダン"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Comedy, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Shounen"
+        ],
+        [
+          "STUDIO",
+          "Science SARU"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2024 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.38 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1584/143719l.jpg"
+    },
+    "57658": {
+      "fetched": "2026-10-29T18:49:53.535302+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Jujutsu Kaisen: The Culling Game Part 1"
+        ],
+        [
+          "JAPANESE",
+          "呪術廻戦 「死滅回游 前編」"
+        ],
+        [
+          "OTHER NAMES",
+          "Jujutsu Kaisen 3rd Season"
+        ],
+        [
+          "GENRES",
+          "Action, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Shounen"
+        ],
+        [
+          "STUDIO",
+          "MAPPA"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2026 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.58 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1659/154920l.jpg"
+    },
+    "57779": {
+      "fetched": "2026-10-29T18:49:08.813730+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Dorohedoro Season 2"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Dorohedoro Season 2"
+        ],
+        [
+          "JAPANESE",
+          "ドロヘドロ Season2"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Comedy, Fantasy, Horror"
+        ],
+        [
+          "THEMES",
+          "Gore, Seinen"
+        ],
+        [
+          "STUDIO",
+          "MAPPA"
+        ],
+        [
+          "FORMAT",
+          "ONA · 11 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.45 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1603/155354l.jpg"
+    },
+    "58390": {
+      "fetched": "2026-10-29T18:51:32.369883+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Yofukashi no Uta Season 2"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Call of the Night Season 2"
+        ],
+        [
+          "JAPANESE",
+          "よふかしのうた Season2"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Romance, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Vampire, Shounen"
+        ],
+        [
+          "STUDIO",
+          "LIDENFILMS"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2025 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "8.33 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1509/148453l.jpg"
+    },
+    "58939": {
+      "fetched": "2026-10-29T18:50:45.192090+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Sakamoto Days"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Sakamoto Days"
+        ],
+        [
+          "JAPANESE",
+          "SAKAMOTO DAYS"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Comedy"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, Organized Crime, Shounen"
+        ],
+        [
+          "STUDIO",
+          "TMS Entertainment"
+        ],
+        [
+          "FORMAT",
+          "TV · 11 episodes · 2025 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "7.58 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1026/146459l.jpg"
+    },
+    "59027": {
+      "fetched": "2026-10-29T18:51:00.539815+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Spy x Family Season 3"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Spy x Family Season 3"
+        ],
+        [
+          "JAPANESE",
+          "SPY×FAMILY Season 3"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Comedy"
+        ],
+        [
+          "THEMES",
+          "Childcare, Super Power, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Wit Studio, CloverWorks"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2025 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "8.21 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1697/151793l.jpg"
+    },
+    "59047": {
+      "fetched": "2026-10-29T18:51:03.469443+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Tamon-kun Ima Docchi!?"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Tamon's B-Side"
+        ],
+        [
+          "JAPANESE",
+          "多聞くん今どっち!?"
+        ],
+        [
+          "OTHER NAMES",
+          "Tamon's B-Side, Which Face Does Tamon Have Now?"
+        ],
+        [
+          "GENRES",
+          "Comedy, Romance"
+        ],
+        [
+          "THEMES",
+          "Idols (Male), Shoujo"
+        ],
+        [
+          "STUDIO",
+          "J.C.Staff"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2026 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "7.80 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1474/153320l.jpg"
+    },
+    "59711": {
+      "fetched": "2026-10-29T18:50:51.019183+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Shibou Yuugi de Meshi wo Kuu."
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Shiboyugi: Playing Death Games to Put Food on the Table"
+        ],
+        [
+          "JAPANESE",
+          "死亡遊戯で飯を食う。"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Suspense"
+        ],
+        [
+          "THEMES",
+          "High Stakes Game"
+        ],
+        [
+          "STUDIO",
+          "Studio Deen"
+        ],
+        [
+          "FORMAT",
+          "TV · 11 episodes · 2026 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "7.10 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1834/151169l.jpg"
+    },
+    "59845": {
+      "fetched": "2026-10-29T18:49:57.930574+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kaoru Hana wa Rin to Saku"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "The Fragrant Flower Blooms with Dignity"
+        ],
+        [
+          "JAPANESE",
+          "薫る花は凛と咲く"
+        ],
+        [
+          "OTHER NAMES",
+          "The Fragrant Flowers Bloom with Dignity"
+        ],
+        [
+          "GENRES",
+          "Drama, Romance"
+        ],
+        [
+          "THEMES",
+          "School"
+        ],
+        [
+          "STUDIO",
+          "CloverWorks"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2025 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "8.46 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1744/150433l.jpg"
+    },
+    "59978": {
+      "fetched": "2026-10-29T18:50:56.172247+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Sousou no Frieren 2nd Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Frieren: Beyond Journey's End Season 2"
+        ],
+        [
+          "JAPANESE",
+          "葬送のフリーレン 第2期"
+        ],
+        [
+          "OTHER NAMES",
+          "Frieren at the Funeral Season 2"
+        ],
+        [
+          "GENRES",
+          "Adventure, Drama, Fantasy"
+        ],
+        [
+          "THEMES",
+          "Shounen"
+        ],
+        [
+          "STUDIO",
+          "Madhouse"
+        ],
+        [
+          "FORMAT",
+          "TV · 10 episodes · 2026 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.84 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1921/154528l.jpg"
+    },
+    "60058": {
+      "fetched": "2026-10-29T18:51:40.306005+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "[Oshi no Ko] 3rd Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "[Oshi No Ko] Season 3"
+        ],
+        [
+          "JAPANESE",
+          "【推しの子】 第3期"
+        ],
+        [
+          "OTHER NAMES",
+          "My Star Season 3"
+        ],
+        [
+          "GENRES",
+          "Drama"
+        ],
+        [
+          "THEMES",
+          "Reincarnation, Showbiz, Seinen"
+        ],
+        [
+          "STUDIO",
+          "Doga Kobo"
+        ],
+        [
+          "FORMAT",
+          "TV · 11 episodes · 2026 · winter"
+        ],
+        [
+          "MAL SCORE",
+          "8.67 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1979/153329l.jpg"
+    },
+    "60285": {
+      "fetched": "2026-10-29T18:50:46.298306+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Sakamoto Days Part 2"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Sakamoto Days Part 2"
+        ],
+        [
+          "JAPANESE",
+          "SAKAMOTO DAYS 第２クール"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Comedy"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, Organized Crime, Shounen"
+        ],
+        [
+          "STUDIO",
+          "TMS Entertainment"
+        ],
+        [
+          "FORMAT",
+          "TV · 11 episodes · 2025 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "7.90 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1758/148719l.jpg"
+    },
+    "60489": {
+      "fetched": "2026-10-29T18:51:01.642487+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Takopii no Genzai"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Takopi's Original Sin"
+        ],
+        [
+          "JAPANESE",
+          "タコピーの原罪"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Drama, Sci-Fi"
+        ],
+        [
+          "THEMES",
+          "Psychological, Time Travel, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Enishiya"
+        ],
+        [
+          "FORMAT",
+          "ONA · 6 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.73 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg"
+    },
+    "60543": {
+      "fetched": "2026-10-29T18:49:02.808497+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Dandadan 2nd Season"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Dan Da Dan Season 2"
+        ],
+        [
+          "JAPANESE",
+          "ダンダダン 第2期"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Comedy, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Shounen"
+        ],
+        [
+          "STUDIO",
+          "Science SARU"
+        ],
+        [
+          "FORMAT",
+          "TV · 12 episodes · 2025 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "8.37 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1721/149001l.jpg"
+    },
+    "6213": {
+      "fetched": "2026-10-29T18:51:04.911643+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Toaru Kagaku no Railgun"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "A Certain Scientific Railgun"
+        ],
+        [
+          "JAPANESE",
+          "とある科学の超電磁砲"
+        ],
+        [
+          "OTHER NAMES",
+          "Toaru Kagaku no Choudenjihou"
+        ],
+        [
+          "GENRES",
+          "Action, Fantasy, Sci-Fi"
+        ],
+        [
+          "THEMES",
+          "Super Power, Urban Fantasy"
+        ],
+        [
+          "STUDIO",
+          "J.C.Staff"
+        ],
+        [
+          "FORMAT",
+          "TV · 24 episodes · 2009 · fall"
+        ],
+        [
+          "MAL SCORE",
+          "7.65 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1099/106939l.jpg"
+    },
+    "6547": {
+      "fetched": "2026-10-29T18:48:50.975064+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Angel Beats!"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Angel Beats!"
+        ],
+        [
+          "JAPANESE",
+          "Angel Beats!（エンジェルビーツ!）"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Drama, Fantasy"
+        ],
+        [
+          "THEMES",
+          "School"
+        ],
+        [
+          "STUDIO",
+          "P.A. Works"
+        ],
+        [
+          "FORMAT",
+          "TV · 13 episodes · 2010 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "8.05 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1244/111115l.jpg"
+    },
+    "7054": {
+      "fetched": "2026-10-29T18:49:54.577010+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kaichou wa Maid-sama!"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Maid Sama!"
+        ],
+        [
+          "JAPANESE",
+          "会長はメイド様!"
+        ],
+        [
+          "OTHER NAMES",
+          "Class President is a Maid!"
+        ],
+        [
+          "GENRES",
+          "Comedy, Romance"
+        ],
+        [
+          "THEMES",
+          "School, Shoujo"
+        ],
+        [
+          "STUDIO",
+          "J.C.Staff"
+        ],
+        [
+          "FORMAT",
+          "TV · 26 episodes · 2010 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "7.98 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/6/25254l.jpg"
+    },
+    "7724": {
+      "fetched": "2026-10-29T18:50:53.425359+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Shiki"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Shiki"
+        ],
+        [
+          "JAPANESE",
+          "屍鬼"
+        ],
+        [
+          "OTHER NAMES",
+          "Corpse Demon"
+        ],
+        [
+          "GENRES",
+          "Horror, Mystery, Supernatural, Suspense"
+        ],
+        [
+          "THEMES",
+          "Gore, Psychological, Vampire, Shounen"
+        ],
+        [
+          "STUDIO",
+          "Daume"
+        ],
+        [
+          "FORMAT",
+          "TV · 22 episodes · 2010 · summer"
+        ],
+        [
+          "MAL SCORE",
+          "7.72 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1531/119165l.jpg"
+    },
+    "8460": {
+      "fetched": "2026-10-29T18:50:13.567623+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Mirai Nikki"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "The Future Diary OVA"
+        ],
+        [
+          "JAPANESE",
+          "未来日記"
+        ],
+        [
+          "OTHER NAMES",
+          "Mirai Nikki OVA"
+        ],
+        [
+          "GENRES",
+          "Action, Supernatural, Suspense"
+        ],
+        [
+          "THEMES",
+          "High Stakes Game, Survival, Shounen"
+        ],
+        [
+          "STUDIO",
+          "asread."
+        ],
+        [
+          "FORMAT",
+          "OVA · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "7.18 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/10/22971l.jpg"
+    },
+    "877": {
+      "fetched": "2026-10-29T18:50:28.975449+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Nana"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Nana"
+        ],
+        [
+          "JAPANESE",
+          "NANA [ナナ]"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Drama, Romance"
+        ],
+        [
+          "THEMES",
+          "Adult Cast, Love Polygon, Music, Shoujo"
+        ],
+        [
+          "STUDIO",
+          "Madhouse"
+        ],
+        [
+          "FORMAT",
+          "TV · 47 episodes · 2006 · spring"
+        ],
+        [
+          "MAL SCORE",
+          "8.58 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/2/11232l.jpg"
+    },
+    "9260": {
+      "fetched": "2026-10-29T18:50:01.206228+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Kizumonogatari I: Tekketsu-hen"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Kizumonogatari Part 1: Iron-Blooded"
+        ],
+        [
+          "JAPANESE",
+          "傷物語〈Ⅰ鉄血篇〉"
+        ],
+        [
+          "OTHER NAMES",
+          "Koyomi Vamp"
+        ],
+        [
+          "GENRES",
+          "Action, Mystery, Supernatural"
+        ],
+        [
+          "THEMES",
+          "Vampire"
+        ],
+        [
+          "STUDIO",
+          "Shaft"
+        ],
+        [
+          "FORMAT",
+          "Movie · 1 episodes"
+        ],
+        [
+          "MAL SCORE",
+          "8.36 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/anime/1783/112810l.jpg"
+    }
+  },
   "favorites": {
     "anime": [],
     "manga": []
   },
-  "manga": {},
+  "manga": {
+    "119536": {
+      "fetched": "2026-10-29T18:51:44.381512+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Obake Ningyou"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Monster Prop"
+        ],
+        [
+          "JAPANESE",
+          "お化け人形"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Horror"
+        ],
+        [
+          "THEMES",
+          "—"
+        ],
+        [
+          "AUTHOR",
+          "Itou, Junji"
+        ],
+        [
+          "FORMAT",
+          "One-shot · 1 chapters"
+        ],
+        [
+          "MAL SCORE",
+          "6.70 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/manga/2/300911l.jpg"
+    },
+    "126146": {
+      "fetched": "2026-10-29T18:51:46.943234+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "[Oshi no Ko]"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "[Oshi no Ko]"
+        ],
+        [
+          "JAPANESE",
+          "【推しの子】"
+        ],
+        [
+          "OTHER NAMES",
+          "\"Oshi no Ko\", 【Oshi no Ko】, My Star, Oshi no Ko: Interlude"
+        ],
+        [
+          "GENRES",
+          "Drama"
+        ],
+        [
+          "THEMES",
+          "Reincarnation, Showbiz, Seinen"
+        ],
+        [
+          "AUTHOR",
+          "Akasaka, Aka, Yokoyari, Mengo"
+        ],
+        [
+          "FORMAT",
+          "Manga · 171 chapters · 16 volumes"
+        ],
+        [
+          "MAL SCORE",
+          "8.05 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/manga/3/233991l.jpg"
+    },
+    "131334": {
+      "fetched": "2026-10-29T18:51:45.976077+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Sakamoto Days"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Sakamoto Days"
+        ],
+        [
+          "JAPANESE",
+          "SAKAMOTO DAYS"
+        ],
+        [
+          "OTHER NAMES",
+          "—"
+        ],
+        [
+          "GENRES",
+          "Action, Comedy"
+        ],
+        [
+          "THEMES",
+          "Shounen"
+        ],
+        [
+          "AUTHOR",
+          "Suzuki, Yuuto"
+        ],
+        [
+          "FORMAT",
+          "Manga"
+        ],
+        [
+          "MAL SCORE",
+          "8.05 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/manga/1/242919l.jpg"
+    },
+    "13841": {
+      "fetched": "2026-10-29T18:51:43.709553+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Mimi no Kaidan"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Mimi's Tales of Terror"
+        ],
+        [
+          "JAPANESE",
+          "ミミの怪談"
+        ],
+        [
+          "OTHER NAMES",
+          "Mimi's Ghost Stories"
+        ],
+        [
+          "GENRES",
+          "Horror"
+        ],
+        [
+          "THEMES",
+          "—"
+        ],
+        [
+          "AUTHOR",
+          "Itou, Junji"
+        ],
+        [
+          "FORMAT",
+          "Manga · 6 chapters · 1 volumes"
+        ],
+        [
+          "MAL SCORE",
+          "7.24 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/manga/4/25805l.jpg"
+    },
+    "44747": {
+      "fetched": "2026-10-29T18:51:42.263739+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Itou Junji Kyoufu Manga Collection: Souichi no Tanoshii Nikki"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Itou Junji Kyoufu Manga Collection: Souichi no Tanoshii Nikki"
+        ],
+        [
+          "JAPANESE",
+          "双一の楽しい日記"
+        ],
+        [
+          "OTHER NAMES",
+          "Fun Summer Vacation, Fun Winter Vacation, Souichi's Diary of Delights, Souichi's Home Tutor"
+        ],
+        [
+          "GENRES",
+          "Drama, Horror, Supernatural, Suspense"
+        ],
+        [
+          "THEMES",
+          "Psychological, Seinen"
+        ],
+        [
+          "AUTHOR",
+          "Itou, Junji"
+        ],
+        [
+          "FORMAT",
+          "Manga · 6 chapters · 1 volumes"
+        ],
+        [
+          "MAL SCORE",
+          "7.37 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/manga/1/185640l.jpg"
+    },
+    "44749": {
+      "fetched": "2026-10-29T18:51:41.075740+00:00",
+      "fields": [
+        [
+          "TITLE",
+          "Itou Junji Kyoufu Manga Collection: Souichi no Noroi Nikki"
+        ],
+        [
+          "ALTERNATIVE NAME",
+          "Itou Junji Kyoufu Manga Collection: Souichi no Noroi Nikki"
+        ],
+        [
+          "JAPANESE",
+          "双一の呪いの日記"
+        ],
+        [
+          "OTHER NAMES",
+          "Souichi's Diary of Curses, Souichi's Selfish Curse, The Silent Room, The Coffin"
+        ],
+        [
+          "GENRES",
+          "Drama, Horror, Supernatural, Suspense"
+        ],
+        [
+          "THEMES",
+          "Psychological, Seinen"
+        ],
+        [
+          "AUTHOR",
+          "Itou, Junji"
+        ],
+        [
+          "FORMAT",
+          "Manga · 5 chapters · 1 volumes"
+        ],
+        [
+          "MAL SCORE",
+          "7.37 / 10"
+        ]
+      ],
+      "poster": "https://cdn.myanimelist.net/images/manga/1/277899l.jpg"
+    }
+  },
   "username": "lunahelios"
 }
