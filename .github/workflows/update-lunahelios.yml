@@ -1,0 +1,60 @@
+name: Update lunahelios MAL metadata
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate_lunahelios.py
+      - docs/lunahelios/**
+      - .github/workflows/update-lunahelios.yml
+  schedule:
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  update-lunahelios:
+    runs-on: ubuntu-latest
+    timeout-minutes: 48
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check the separate generator
+        run: python -m unittest discover -s tests -p 'test_lunahelios.py'
+      - name: Refresh lunahelios public metadata
+        run: python scripts/generate_lunahelios.py
+        env:
+          LUNA_MAX_DETAILS: '350'
+      - name: Commit only lunahelios cache and künye
+        id: cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/lunahelios/kunye.css docs/lunahelios/cache.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update lunahelios public MAL metadata"
+            # The noctemsol workflow may have updated its own cache meanwhile.
+            # Our files are disjoint, so a bounded rebase avoids losing either.
+            for attempt in 1 2 3; do
+              if git push; then
+                break
+              fi
+              if [ "$attempt" -eq 3 ]; then
+                exit 1
+              fi
+              git pull --rebase origin main
+            done
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Publish through the existing Pages workflow
+        if: steps.cache.outputs.changed == 'true'
+        run: gh workflow run update.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
