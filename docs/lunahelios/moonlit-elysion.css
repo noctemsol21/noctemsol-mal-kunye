@@ -82,7 +82,7 @@ body * { text-shadow: none; }
   padding: 22px 34px 24px 108px !important;
   border: 0 !important;
   border-bottom: 1px solid rgba(216, 190, 136, .48) !important;
-  background: rgba(29, 30, 65, .37) !important;
+  background: rgba(53, 41, 85, .46) !important;
   box-shadow: none !important;
   text-align: left !important;
 }
@@ -130,6 +130,18 @@ body:has(#list_surround .status_selected:last-child) #mal_control_strip::before 
   letter-spacing: 3.2px !important;
   text-transform: uppercase !important;
   text-decoration: none !important;
+  border-bottom: 1px solid transparent;
+  transition: color .2s ease, border-color .2s ease, text-shadow .2s ease;
+}
+#mal_cs_listinfo strong a:hover,
+#mal_cs_listinfo strong a:focus-visible {
+  color: #ffe6be !important;
+  border-bottom-color: rgba(255, 230, 190, .68);
+  text-shadow: 0 0 17px rgba(251, 202, 223, .4) !important;
+}
+#mal_control_strip:has(#mal_cs_listinfo strong a:hover)::before,
+#mal_control_strip:has(#mal_cs_listinfo strong a:focus-visible)::before {
+  filter: drop-shadow(0 0 9px rgba(255, 223, 193, .65));
 }
 #mal_cs_links {
   position: absolute !important;
@@ -264,7 +276,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   background-repeat: no-repeat;
   opacity: .81;
   pointer-events: none;
-  transition: opacity .15s ease;
+  transition: opacity .22s ease, transform .22s ease, filter .22s ease;
 }
 #list_surround .status_selected a::before { opacity: 1; }
 #list_surround table:has(.status_selected, .status_not_selected) td:nth-child(1) a::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-moon.webp"); }
@@ -275,6 +287,13 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 #list_surround table:has(.status_selected, .status_not_selected) td:last-child a::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/cameo-luna.webp"); }
 #list_surround .status_not_selected a:hover::before,
 #list_surround .status_not_selected a:focus-visible::before { opacity: 1; }
+#list_surround .status_selected a:hover::before,
+#list_surround .status_selected a:focus-visible::before,
+#list_surround .status_not_selected a:hover::before,
+#list_surround .status_not_selected a:focus-visible::before {
+  transform: translateY(-4px) scale(1.07);
+  filter: drop-shadow(0 5px 9px rgba(255, 214, 233, .42));
+}
 #list_surround .status_selected:hover,
 #list_surround .status_selected:focus-within,
 #list_surround .status_selected a:hover,
@@ -289,7 +308,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 #list_surround .status_not_selected:hover,
 #list_surround .status_not_selected:focus-within,
 #list_surround .status_not_selected a:hover {
-  color: #e7d7f2 !important;
+  color: #ffe4c3 !important;
 }
 
 /* 03 — Character cameos replace the old Pegasus line illustration. */
@@ -302,11 +321,11 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   height: 216px !important;
   min-height: 216px;
   margin: 37px 0 18px !important;
-  border: 1px solid rgba(236, 204, 229, .34) !important;
+  border: 1px solid rgba(247, 206, 231, .45) !important;
   border-radius: 0 !important;
   background:
-    radial-gradient(circle at 82% 50%, rgba(224, 172, 214, .18), transparent 40%),
-    linear-gradient(105deg, rgba(27, 30, 67, .96), rgba(54, 48, 90, .94) 57%, rgba(79, 61, 108, .9)) !important;
+    radial-gradient(circle at 82% 50%, rgba(241, 175, 215, .27), transparent 42%),
+    linear-gradient(105deg, rgba(41, 36, 78, .94), rgba(76, 50, 102, .91) 57%, rgba(108, 70, 116, .88)) !important;
   box-shadow: none !important;
   transform: none !important;
   overflow: hidden !important;
@@ -366,7 +385,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   max-width: 100% !important;
   table-layout: fixed !important;
   border-collapse: collapse !important;
-  background: rgba(37, 36, 76, .93) !important;
+  background: rgba(71, 50, 104, .94) !important;
   border-bottom: 1px solid rgba(236, 203, 227, .28) !important;
 }
 #list_surround td.table_header {
@@ -395,14 +414,14 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   table-layout: fixed !important;
   border-collapse: collapse !important;
   border-spacing: 0 !important;
-  background: rgba(39, 42, 87, .92) !important;
+  background: linear-gradient(100deg, rgba(70, 58, 112, .88), rgba(64, 59, 116, .88)) !important;
 }
 #list_surround > table:has(a.animetitle):nth-of-type(even) {
-  background: rgba(56, 50, 98, .9) !important;
+  background: linear-gradient(100deg, rgba(103, 72, 131, .87), rgba(83, 69, 128, .87)) !important;
 }
 #list_surround > table:has(a.animetitle):hover {
   z-index: 15;
-  background: rgba(78, 64, 116, .94) !important;
+  background: linear-gradient(100deg, rgba(140, 90, 145, .94), rgba(105, 80, 143, .94)) !important;
 }
 #list_surround > table:has(a.animetitle) tr {
   height: 50px;
@@ -456,7 +475,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   font: 500 18px/1 var(--elysion-serif);
   color: var(--elysion-gold);
   text-align: center;
-  background: #514a7d;
+  background: transparent !important;
   pointer-events: none;
 }
 
@@ -640,7 +659,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   padding: 17px 20px !important;
   border-top: 1px solid rgba(216, 190, 136, .43) !important;
   border-bottom: 1px solid rgba(203, 187, 225, .16) !important;
-  background: rgba(40, 34, 76, .85) !important;
+  background: rgba(77, 50, 106, .86) !important;
   color: #cec4db !important;
   font: 500 11px/1.7 var(--elysion-sans) !important;
   text-align: center !important;
@@ -684,18 +703,24 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   inset: auto !important;
   float: none !important;
   clear: both !important;
-  width: 100% !important;
-  max-width: 1000px !important;
+  width: max-content !important;
+  max-width: calc(100vw - 24px) !important;
   height: auto !important;
-  margin: 4px auto 20px !important;
-  padding: 0 12px !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  margin: 6px 0 20px !important;
+  padding: 0 6px !important;
   border: 0 !important;
   background: transparent !important;
   color: #d5c9df !important;
   font: 400 7px/1.35 var(--elysion-sans) !important;
   text-align: center !important;
   text-transform: none !important;
-  opacity: .43;
+  opacity: .47;
+}
+#recaptcha-terms *, .recaptcha-terms * {
+  font-size: 7px !important;
+  line-height: 1.35 !important;
 }
 #recaptcha-terms a, .recaptcha-terms a {
   color: inherit !important;
