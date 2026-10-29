@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Sailor Mercury celestial portrait emblem">
+  <defs><clipPath id="medallion"><circle cx="50" cy="50" r="39"/></clipPath></defs>
+  <circle cx="50" cy="50" r="46" fill="#111b3c" stroke="#d8be88" stroke-width="1.2"/>
+  <circle cx="50" cy="50" r="42" fill="none" stroke="#bcb0da" stroke-opacity=".6" stroke-width=".75"/>
+  <g clip-path="url(#medallion)" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M24 39Q24 15 49 16Q75 15 76 39L72 69l-14 2-29-3Z" fill="#688aa8" stroke="#acc7da" stroke-width="1.5"/>
+    <path d="M19 99Q23 79 38 75l12-7 12 7Q77 80 81 99" fill="#f0eafa" stroke="#bcb0da" stroke-width="1.6"/>
+    <path d="M31 79 50 89l19-10-6-6-13 10-13-10Z" fill="#7597bf"/>
+    <path d="M44 83l6 6 6-6-6-4Z" fill="#b2cee2" stroke="#d9edf5" stroke-width=".9"/>
+    <path d="M33 41Q32 29 49 29Q67 28 67 42L65 57Q61 71 50 74Q37 72 34 56Z" fill="#f3e8e3" stroke="#e8d5be" stroke-width="1.5"/>
+    <path d="M26 48Q19 27 35 22Q52 13 68 23Q77 33 71 50L65 47l-2-15q-6 12-21 11l-8 7Z" fill="#7e9fba" stroke="#b2d3df" stroke-width="1.4"/>
+    <path d="M26 45q-5 12 5 21l7-4-3-17M73 44q6 12-5 22l-6-3 3-18" fill="#7196b5" stroke="#a8c8db" stroke-width="1.3"/>
+    <path d="M39 51q4-3 8 0m8 0q4-3 8 0" fill="none" stroke="#5e759f" stroke-width="1.7"/>
+    <path d="M48 61q2 2 5 0" fill="none" stroke="#b88fa8" stroke-width="1.3"/>
+    <path d="m42 38 8 4 8-4" fill="none" stroke="#d8be88" stroke-width="1.5"/>
+    <path d="m50 38 3 4-3 4-3-4Z" fill="#82b6da"/>
+  </g>
+  <path d="m86 12 1.6 4.5L92 18l-4.4 1.6L86 24l-1.6-4.4L80 18l4.4-1.5Z" fill="#dfc892"/>
+  <circle cx="15" cy="76" r="1.4" fill="#d8be88"/>
+</svg>

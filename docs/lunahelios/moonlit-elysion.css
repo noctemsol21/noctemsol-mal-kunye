@@ -37,11 +37,14 @@ body {
   font: 400 13px/1.6 var(--elysion-sans) !important;
   text-transform: none !important;
   text-shadow: none !important;
-  background:
-    linear-gradient(180deg, rgba(11, 20, 46, .08), rgba(8, 13, 34, .78)),
-    url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/elysion-sky.svg")
-      center top / cover fixed,
-    var(--elysion-night) !important;
+  background-color: var(--elysion-night) !important;
+  background-image:
+    linear-gradient(180deg, rgba(11, 20, 46, .08), rgba(8, 13, 34, .64)),
+    url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/elysion-sky.svg") !important;
+  background-position: center center, center center !important;
+  background-size: cover, cover !important;
+  background-repeat: no-repeat, no-repeat !important;
+  background-attachment: fixed, fixed !important;
   overflow-x: hidden;
 }
 
@@ -61,7 +64,7 @@ body * { text-shadow: none; }
   position: relative !important;
   width: min(1040px, calc(100vw - 56px)) !important;
   max-width: 1040px !important;
-  min-height: 156px !important;
+  min-height: 206px !important;
   margin: 30px auto 0 !important;
   padding: 22px 34px 24px 108px !important;
   border: 0 !important;
@@ -84,7 +87,7 @@ body * { text-shadow: none; }
 #mal_control_strip::after {
   content: "MOONLIT ELYSION  ·  ANIME & MANGA";
   position: absolute;
-  top: 101px;
+  top: 113px;
   left: 109px;
   color: var(--elysion-lavender);
   font: 600 10px/1.5 var(--elysion-sans);
@@ -114,12 +117,13 @@ body * { text-shadow: none; }
   font: 500 clamp(28px, 3.4vw, 47px)/1.3 var(--elysion-serif) !important;
   letter-spacing: 3.2px !important;
   text-transform: uppercase !important;
+  text-decoration: none !important;
 }
 #mal_cs_links {
   position: absolute !important;
   left: 107px;
   right: 15px;
-  bottom: 14px;
+  bottom: 21px;
   width: auto !important;
   white-space: normal !important;
   color: transparent !important;
@@ -138,6 +142,7 @@ body * { text-shadow: none; }
   font: 600 10px/1.7 var(--elysion-sans) !important;
   letter-spacing: .8px;
   text-transform: uppercase !important;
+  text-decoration: none !important;
 }
 #mal_cs_links a:hover,
 #mal_cs_links a:focus-visible { color: var(--elysion-gold) !important; }
@@ -185,18 +190,19 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   box-sizing: border-box;
   position: relative;
   display: flex !important;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   width: auto !important;
-  height: 61px;
-  padding: 8px 7px !important;
+  height: 108px;
+  padding: 9px 5px 11px !important;
   margin: 0 !important;
   border: 0 !important;
   border-radius: 0 !important;
   background: none !important;
   box-shadow: none !important;
   color: #a9a7c3 !important;
-  font: 600 11px/1.35 var(--elysion-sans) !important;
+  font: 600 10px/1.35 var(--elysion-sans) !important;
   text-transform: uppercase !important;
   letter-spacing: .75px;
   white-space: normal;
@@ -205,11 +211,15 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 #list_surround .status_selected,
 #list_surround .status_selected a { color: var(--elysion-pearl) !important; }
 #list_surround .status_selected::before {
-  content: "☾";
-  display: inline-block;
-  color: var(--elysion-gold);
-  font: 500 20px/1 var(--elysion-serif);
-  margin-right: 7px;
+  content: "";
+  display: block;
+  flex: 0 0 65px;
+  width: 65px;
+  height: 65px;
+  margin: 0 0 5px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
   pointer-events: none;
 }
 #list_surround .status_selected::after {
@@ -222,8 +232,29 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   background: var(--elysion-gold);
   pointer-events: none;
 }
-#list_surround .status_not_selected::before,
+#list_surround .status_not_selected::before {
+  content: "" !important;
+  display: block !important;
+  flex: 0 0 65px;
+  width: 65px;
+  height: 65px;
+  margin: 0 0 5px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: .69;
+  transition: opacity .15s ease;
+  pointer-events: none;
+}
 #list_surround .status_not_selected::after { content: none !important; }
+#list_surround .status_not_selected:hover::before,
+#list_surround .status_not_selected:focus-within::before { opacity: 1; }
+#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(1)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-moon.svg"); }
+#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(2)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-mercury.svg"); }
+#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(3)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-mars.svg"); }
+#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(4)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-jupiter.svg"); }
+#list_surround table:has(.status_selected, .status_not_selected) td:nth-child(5)::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-venus.svg"); }
+#list_surround table:has(.status_selected, .status_not_selected) td:last-child::before { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/moon-crest.svg"); }
 #list_surround .status_selected a,
 #list_surround .status_not_selected a {
   color: inherit !important;
@@ -279,6 +310,30 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   letter-spacing: 2.6px;
   text-shadow: none;
 }
+/* The five Senshi share one restrained vector crest style. */
+#list_surround table.header_cw div::after,
+#list_surround table.header_completed div::after,
+#list_surround table.header_onhold div::after,
+#list_surround table.header_dropped div::after,
+#list_surround table.header_ptw div::after {
+  content: "";
+  position: absolute;
+  right: 34px;
+  top: 50%;
+  width: 115px;
+  height: 115px;
+  transform: translateY(-50%);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: .9;
+  pointer-events: none;
+}
+#list_surround table.header_cw div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-moon.svg"); }
+#list_surround table.header_completed div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-mercury.svg"); }
+#list_surround table.header_onhold div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-mars.svg"); }
+#list_surround table.header_dropped div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-jupiter.svg"); }
+#list_surround table.header_ptw div::after { background-image: url("https://noctemsol21.github.io/noctemsol-mal-kunye/lunahelios/assets/senshi-venus.svg"); }
 
 /* 04 — Identical column widths for anime and manga, including TV Special. */
 #list_surround > table:has(a.animetitle) {
@@ -463,7 +518,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   content: none;
   box-sizing: border-box;
   position: absolute;
-  left: -206px;
+  left: -260px;
   top: 50%;
   width: 166px;
   height: 237px;
@@ -517,6 +572,15 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 }
 
 /* 07 — Footer and unobtrusive interface details. */
+/* Category-by-category TV/OVA/Eps totals are redundant; retain the final grand totals. */
+#list_surround table:has(.category_totals),
+#list_surround .category_totals { display: none !important; }
+
+/* The optional Classic Tags column is 125px wide in the legacy template. */
+#list_surround td.table_header[width="125"],
+#list_surround td.td1[width="125"],
+#list_surround td.td2[width="125"] { display: none !important; }
+
 #list_surround #grand_totals,
 #grand_totals {
   display: block !important;
@@ -534,10 +598,20 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 }
 #copyright,
 #copyright a {
-  color: #a9a4bf !important;
-  font: 400 10px/1.5 var(--elysion-sans) !important;
+  color: #777791 !important;
+  font: 400 8px/1.5 var(--elysion-sans) !important;
   text-align: center !important;
   text-transform: none !important;
+}
+#copyright {
+  display: block !important;
+  box-sizing: border-box !important;
+  width: 100% !important;
+  max-width: 1000px !important;
+  margin: 65px auto 18px !important;
+  padding: 0 12px !important;
+  background: none !important;
+  border: 0 !important;
 }
 #recaptcha-terms, .recaptcha-terms {
   display: block !important;
@@ -554,7 +628,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
 @media (max-width: 1240px) {
   #list_surround a.animetitle::before {
     position: fixed;
-    left: 14px;
+    left: 7px;
     top: 50%;
     transform: translateY(-50%);
     width: 130px;
@@ -565,7 +639,7 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   #mal_control_strip {
     width: calc(100vw - 26px) !important;
     padding-left: 75px !important;
-    min-height: 148px !important;
+    min-height: 202px !important;
   }
   #mal_control_strip::before { left: 11px; width: 50px; height: 50px; }
   #mal_cs_listinfo { left: 76px; }
@@ -573,7 +647,9 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   #mal_cs_links { left: 78px; }
   #list_surround { max-width: calc(100vw - 26px); }
   #list_surround .status_selected,
-  #list_surround .status_not_selected { font-size: 9px !important; letter-spacing: 0; }
+  #list_surround .status_not_selected { font-size: 9px !important; letter-spacing: 0; height: 94px; }
+  #list_surround .status_selected::before,
+  #list_surround .status_not_selected::before { width: 52px; height: 52px; flex-basis: 52px; }
   #list_surround td:has(a.animetitle) { padding-right: 176px !important; }
   #list_surround td:has(a.animetitle)::after { right: 84px; width: 78px; font-size: 9px; }
   #list_surround td:has(a.animetitle) > div[style*="float"] { right: 7px !important; }
@@ -583,6 +659,14 @@ br:first-child + table:has(.status_selected, .status_not_selected) tr {
   #list_surround table[class^="header_"] div { font-size: 30px !important; padding: 18px !important; }
 }
 @media (max-width: 680px) {
+  #mal_control_strip { min-height: 232px !important; }
+  #mal_cs_links { bottom: 11px; }
+  #mal_cs_links a { margin-right: 11px !important; font-size: 9px !important; }
+  #list_surround .status_selected,
+  #list_surround .status_not_selected { height: 75px; font-size: 7px !important; padding: 5px 2px !important; }
+  #list_surround .status_selected::before,
+  #list_surround .status_not_selected::before { width: 38px; height: 38px; flex-basis: 38px; margin-bottom: 3px; }
+  #list_surround table[class^="header_"] div::after { width: 66px; height: 66px; right: 14px; }
   #list_surround a.animetitle::before { display: none !important; }
   #list_surround > table:has(a.animetitle) tr > td:last-child:not([colspan]) { width: 49px !important; }
   #list_surround > table:has(a.animetitle) tr > td:nth-last-child(2):not([colspan]) { width: 75px !important; }
